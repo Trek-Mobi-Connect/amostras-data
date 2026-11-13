@@ -1,0 +1,3029 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-13",
+  "programs": [
+    {
+      "id": "shein-free-trial-br",
+      "name": "SHEIN Prova Gratuita (Free Trial)",
+      "company": "SHEIN",
+      "countries": [
+        "BR"
+      ],
+      "categories": [
+        "testing"
+      ],
+      "access": "selection",
+      "summary": {
+        "pt": "Área do app e site da SHEIN onde você se candidata a receber peças para testar. A SHEIN seleciona quem recebe e pede uma resenha com fotos.",
+        "es": "Sección de la app y del sitio de SHEIN donde puedes postularte para recibir prendas de prueba. SHEIN selecciona a quién envía y pide una reseña con fotos.",
+        "en": "A section of the SHEIN app and site where you can apply to receive items to test. SHEIN selects who receives them and asks for a review with photos."
+      },
+      "eligibility": {
+        "pt": "Qualquer conta SHEIN não bloqueada, usando a loja do Brasil. Até 3 candidaturas por semana. Proibido usar contas falsas.",
+        "es": "Cualquier cuenta de SHEIN no bloqueada, usando la tienda de Brasil. Hasta 3 postulaciones por semana. Prohibido usar cuentas falsas.",
+        "en": "Any SHEIN account that is not blocked, using the Brazil store. Up to 3 applications per week. Fake accounts are not allowed."
+      },
+      "steps": {
+        "pt": [
+          "Abra a área Prova Gratuita no app ou site da SHEIN Brasil.",
+          "Escolha até 3 itens por semana e toque em Prova gratuita.",
+          "Informe tamanho e endereço de entrega e envie.",
+          "Acompanhe o resultado em Minha prova gratuita (cerca de 1 semana).",
+          "Se for selecionado e receber o item, publique o relatório em até 10 dias."
+        ],
+        "es": [
+          "Abre la sección Prova Gratuita en la app o el sitio de SHEIN Brasil.",
+          "Elige hasta 3 artículos por semana y toca Prova gratuita.",
+          "Indica talla y dirección de entrega y envía.",
+          "Revisa el resultado en Minha prova gratuita (alrededor de 1 semana).",
+          "Si eres seleccionado y recibes el artículo, publica el informe en un plazo de 10 días."
+        ],
+        "en": [
+          "Open the Free Trial (Prova Gratuita) area in the SHEIN Brazil app or site.",
+          "Pick up to 3 items per week and tap Prova gratuita.",
+          "Enter your size and delivery address and submit.",
+          "Check the result under Minha prova gratuita (about 1 week).",
+          "If selected and you receive the item, post the report within 10 days."
+        ]
+      },
+      "costs": {
+        "pt": "Sem pagamento pelo item. Exige resenha em até 10 dias com uma foto de corpo inteiro e duas fotos de detalhe; não enviar pode impedir participações futuras. A SHEIN não reenvia pacotes com endereço ou tamanho errado.",
+        "es": "No se paga por el artículo. Exige una reseña en 10 días con una foto de cuerpo entero y dos fotos de detalle; no enviarla puede impedir futuras participaciones. SHEIN no reenvía paquetes con dirección o talla incorrectas.",
+        "en": "No payment for the item. A review is required within 10 days with one full-body photo and two detail photos; not sending it can block future participation. SHEIN does not resend packages with a wrong address or size."
+      },
+      "frequency": {
+        "pt": "Itens disponíveis mudam com frequência; limite de 3 candidaturas por semana. Vagas limitadas, sem garantia de seleção.",
+        "es": "Los artículos disponibles cambian con frecuencia; límite de 3 postulaciones por semana. Cupos limitados, sin garantía de selección.",
+        "en": "Available items change often; limit of 3 applications per week. Limited spots, no guarantee of selection."
+      },
+      "officialUrl": "https://br.shein.com/Free-Trial-Hel-Center-a-747.html",
+      "verifiedAt": "2026-11-13",
+      "featured": true,
+      "sources": [
+        "https://br.shein.com/Free-Trial-Hel-Center-a-747.html",
+        "https://br.shein.com/Use-Trial-Reports-a-415.html",
+        "https://br.shein.com/free-trial-center/index"
+      ]
+    },
+    {
+      "id": "amazon-vine-br",
+      "name": "Amazon Vine",
+      "company": "Amazon",
+      "countries": [
+        "BR"
+      ],
+      "categories": [
+        "testing"
+      ],
+      "access": "invite",
+      "summary": {
+        "pt": "Programa da Amazon.com.br só para convidados. As \"vozes do Vine\" podem solicitar produtos sem custo e publicam avaliações honestas com selo Vine.",
+        "es": "Programa de Amazon.com.br solo por invitación. Las \"voces de Vine\" pueden solicitar productos sin costo y publican reseñas honestas con sello Vine.",
+        "en": "An invitation-only Amazon.com.br program. \"Vine Voices\" can request products at no cost and post honest reviews marked with a Vine badge."
+      },
+      "eligibility": {
+        "pt": "Somente clientes convidados pela Amazon. Segundo a Amazon, quem escreve avaliações criteriosas de forma consistente tem mais chance de ser convidado. Não há formulário de inscrição.",
+        "es": "Solo clientes invitados por Amazon. Según Amazon, quienes escriben reseñas cuidadosas de forma constante tienen más probabilidad de ser invitados. No hay formulario de inscripción.",
+        "en": "Only customers invited by Amazon. According to Amazon, people who consistently write thoughtful reviews are more likely to be invited. There is no sign-up form."
+      },
+      "steps": {
+        "pt": [
+          "Compre e avalie produtos na Amazon.com.br com avaliações úteis e honestas.",
+          "Aguarde um possível convite da Amazon (não é possível se candidatar).",
+          "Se convidado e aceito, solicite produtos disponíveis no painel Vine.",
+          "Use o produto e publique uma avaliação honesta, positiva, neutra ou negativa."
+        ],
+        "es": [
+          "Compra y reseña productos en Amazon.com.br con reseñas útiles y honestas.",
+          "Espera una posible invitación de Amazon (no es posible postularse).",
+          "Si te invitan y aceptas, solicita productos disponibles en el panel Vine.",
+          "Usa el producto y publica una reseña honesta, positiva, neutral o negativa."
+        ],
+        "en": [
+          "Buy and review products on Amazon.com.br with helpful, honest reviews.",
+          "Wait for a possible invitation from Amazon (you cannot apply).",
+          "If invited and you join, request available products in the Vine dashboard.",
+          "Use the product and post an honest review, whether positive, neutral or negative."
+        ]
+      },
+      "costs": {
+        "pt": "Os produtos são enviados sem custo às vozes do Vine. Participantes não são pagos. Para permanecer, espera-se que publiquem avaliações honestas. Regras detalhadas ficam na área do membro.",
+        "es": "Los productos se envían sin costo a las voces de Vine. Los participantes no reciben pago. Para permanecer, se espera que publiquen reseñas honestas. Las reglas detalladas están en el área del miembro.",
+        "en": "Products are shipped at no cost to Vine Voices. Participants are not paid. To stay in, they are expected to keep posting honest reviews. Detailed rules are in the member area."
+      },
+      "frequency": {
+        "pt": "Convites a critério da Amazon, sem calendário. Novos produtos entram no catálogo Vine diariamente para quem já é membro.",
+        "es": "Invitaciones a criterio de Amazon, sin calendario. Nuevos productos entran al catálogo Vine a diario para quienes ya son miembros.",
+        "en": "Invitations at Amazon's discretion, with no schedule. New products are added to the Vine catalog daily for existing members."
+      },
+      "officialUrl": "https://www.amazon.com.br/vine/about",
+      "verifiedAt": "2026-11-13",
+      "featured": true,
+      "sources": [
+        "https://www.amazon.com.br/vine/about",
+        "https://venda.amazon.com.br/vine"
+      ]
+    },
+    {
+      "id": "home-tester-club-br",
+      "name": "Home Tester Club Brasil",
+      "company": "The Brand Power Company (Home Tester Club)",
+      "countries": [
+        "BR"
+      ],
+      "categories": [
+        "testing"
+      ],
+      "access": "selection",
+      "summary": {
+        "pt": "Comunidade gratuita de avaliações onde você registra interesse em testes de produtos. A equipe seleciona os membros com o perfil buscado para receber o produto.",
+        "es": "Comunidad gratuita de reseñas donde registras interés en pruebas de productos. El equipo selecciona a los miembros con el perfil buscado para recibir el producto.",
+        "en": "A free review community where you register interest in product tests. The team selects members who match the target profile to receive the product."
+      },
+      "eligibility": {
+        "pt": "Maiores de 18 anos residentes no Brasil, com cadastro e perfil preenchido. A seleção considera respostas, dados demográficos, perguntas de pré-qualificação e pontos.",
+        "es": "Mayores de 18 años residentes en Brasil, con registro y perfil completo. La selección considera respuestas, datos demográficos, preguntas de precalificación y puntos.",
+        "en": "Residents of Brazil aged 18 or older, with an account and a completed profile. Selection considers answers, demographics, pre-qualification questions and points."
+      },
+      "steps": {
+        "pt": [
+          "Crie sua conta gratuita no site ou app do Home Tester Club Brasil.",
+          "Complete o perfil de consumidor.",
+          "Registre interesse nos testes abertos e responda às perguntas de pré-qualificação.",
+          "Se selecionado, a equipe entra em contato em uma ou duas semanas.",
+          "Teste o produto por uma ou duas semanas e responda à pesquisa de opinião."
+        ],
+        "es": [
+          "Crea tu cuenta gratuita en el sitio o app de Home Tester Club Brasil.",
+          "Completa tu perfil de consumidor.",
+          "Registra interés en las pruebas abiertas y responde las preguntas de precalificación.",
+          "Si te seleccionan, el equipo te contacta en una o dos semanas.",
+          "Prueba el producto durante una o dos semanas y responde la encuesta de opinión."
+        ],
+        "en": [
+          "Create a free account on the Home Tester Club Brazil site or app.",
+          "Complete your consumer profile.",
+          "Register interest in open tests and answer the pre-qualification questions.",
+          "If selected, the team contacts you within one or two weeks.",
+          "Test the product for one or two weeks and complete the opinion survey."
+        ]
+      },
+      "costs": {
+        "pt": "Cadastro gratuito. Exige dados pessoais e endereço. Depois do teste, pede uma pesquisa de opinião; algumas campanhas pedem fotos, vídeos ou posts em redes sociais.",
+        "es": "Registro gratuito. Requiere datos personales y dirección. Después de la prueba, pide una encuesta de opinión; algunas campañas piden fotos, videos o publicaciones en redes sociales.",
+        "en": "Free to join. Requires personal data and an address. After the test, an opinion survey is required; some campaigns ask for photos, videos or social media posts."
+      },
+      "frequency": {
+        "pt": "Testes abrem ao longo do ano, com quantidade limitada. Todo mês, os 20 membros com mais pontos no país são convidados para testes bônus.",
+        "es": "Las pruebas se abren a lo largo del año, con cantidad limitada. Cada mes, los 20 miembros con más puntos del país son invitados a pruebas extra.",
+        "en": "Tests open throughout the year in limited quantities. Each month, the 20 members with the most points in the country are invited to bonus tests."
+      },
+      "officialUrl": "https://www.hometesterclub.com/br/pt",
+      "verifiedAt": "2026-11-13",
+      "featured": true,
+      "sources": [
+        "https://www.hometesterclub.com/br/pt",
+        "https://www.hometesterclub.com/br/pt/faq",
+        "https://www.hometesterclub.com/br/pt/terms"
+      ]
+    },
+    {
+      "id": "the-insiders-br",
+      "name": "The Insiders Brasil",
+      "company": "The Insiders",
+      "countries": [
+        "BR"
+      ],
+      "categories": [
+        "testing"
+      ],
+      "access": "selection",
+      "summary": {
+        "pt": "Rede de marketing boca a boca em que você se inscreve em campanhas de marcas. Os selecionados podem receber um kit em casa para testar e compartilhar a opinião.",
+        "es": "Red de marketing boca a boca donde te inscribes en campañas de marcas. Los seleccionados pueden recibir un kit en casa para probar y compartir su opinión.",
+        "en": "A word-of-mouth marketing network where you sign up for brand campaigns. Selected members may receive a kit at home to test and share their opinion."
+      },
+      "eligibility": {
+        "pt": "Membros cadastrados no site do Brasil. Cada campanha tem perfil, critérios e número de vagas próprios. Não é preciso ser influenciador.",
+        "es": "Miembros registrados en el sitio de Brasil. Cada campaña tiene su propio perfil, criterios y número de cupos. No hace falta ser influencer.",
+        "en": "Members registered on the Brazil site. Each campaign has its own profile, criteria and number of spots. You do not need to be an influencer."
+      },
+      "steps": {
+        "pt": [
+          "Cadastre-se no site The Insiders Brasil e complete seu perfil.",
+          "Abra a página de campanhas e clique em Inscreva-se nas que interessam.",
+          "Responda ao questionário da campanha.",
+          "Se selecionado, receba o kit e cumpra as missões indicadas.",
+          "Compartilhe sua opinião no site e, se pedido, nas redes sociais."
+        ],
+        "es": [
+          "Regístrate en el sitio The Insiders Brasil y completa tu perfil.",
+          "Abre la página de campañas y haz clic en Inscreva-se en las que te interesen.",
+          "Responde el cuestionario de la campaña.",
+          "Si te seleccionan, recibe el kit y cumple las misiones indicadas.",
+          "Comparte tu opinión en el sitio y, si se pide, en redes sociales."
+        ],
+        "en": [
+          "Sign up on The Insiders Brazil site and complete your profile.",
+          "Open the campaigns page and click Inscreva-se on those you like.",
+          "Answer the campaign questionnaire.",
+          "If selected, receive the kit and complete the listed missions.",
+          "Share your opinion on the site and, if requested, on social media."
+        ]
+      },
+      "costs": {
+        "pt": "Cadastro gratuito. Exige endereço e dados de perfil. Os selecionados devem participar das missões (posts, avaliações); quem não participa pode ser removido temporariamente. Consulte as regras de cada campanha.",
+        "es": "Registro gratuito. Requiere dirección y datos de perfil. Los seleccionados deben participar en las misiones (publicaciones, reseñas); quien no participa puede ser retirado temporalmente. Consulta las reglas de cada campaña.",
+        "en": "Free to join. Requires an address and profile data. Selected members must take part in missions (posts, reviews); those who do not may be temporarily removed. Check each campaign's rules."
+      },
+      "frequency": {
+        "pt": "Novas campanhas abrem ao longo do mês, com vagas limitadas e prazo de inscrição.",
+        "es": "Nuevas campañas se abren a lo largo del mes, con cupos limitados y plazo de inscripción.",
+        "en": "New campaigns open throughout the month, with limited spots and a sign-up deadline."
+      },
+      "officialUrl": "https://www.theinsidersnet.com/pt-br/info/detail/",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://www.theinsidersnet.com/pt-br/info/detail/",
+        "https://www.theinsidersnet.com/pt-br/campaigns/overview/",
+        "https://www.theinsidersnet.com/pt-br/info/codeofconduct/"
+      ]
+    },
+    {
+      "id": "sampleo-br",
+      "name": "Sampleo Brasil",
+      "company": "Sampleo",
+      "countries": [
+        "BR"
+      ],
+      "categories": [
+        "testing"
+      ],
+      "access": "selection",
+      "summary": {
+        "pt": "Plataforma de testes de produtos com campanhas de nanoinfluenciadores. Você se candidata e, se a campanha selecionar você, recebe o produto para cumprir missões.",
+        "es": "Plataforma de pruebas de productos con campañas de nanoinfluencers. Te postulas y, si la campaña te selecciona, recibes el producto para cumplir misiones.",
+        "en": "A product-testing platform with nano-influencer campaigns. You apply and, if the campaign selects you, you receive the product to complete missions."
+      },
+      "eligibility": {
+        "pt": "Residentes no Brasil cadastrados no site brasileiro da Sampleo, com perfil completo. Consulte os termos para demais requisitos.",
+        "es": "Residentes en Brasil registrados en el sitio brasileño de Sampleo, con perfil completo. Consulta los términos para otros requisitos.",
+        "en": "Residents of Brazil registered on Sampleo's Brazilian site, with a completed profile. See the terms for other requirements."
+      },
+      "steps": {
+        "pt": [
+          "Cadastre-se no site da Sampleo Brasil.",
+          "Complete seu perfil.",
+          "Candidate-se às campanhas abertas.",
+          "Se selecionado, explore o produto recebido e cumpra as missões de nanoinfluenciador.",
+          "Ao concluir, candidate-se a novas campanhas."
+        ],
+        "es": [
+          "Regístrate en el sitio de Sampleo Brasil.",
+          "Completa tu perfil.",
+          "Postúlate a las campañas abiertas.",
+          "Si te seleccionan, prueba el producto recibido y cumple las misiones de nanoinfluencer.",
+          "Al terminar, postúlate a nuevas campañas."
+        ],
+        "en": [
+          "Sign up on the Sampleo Brazil site.",
+          "Complete your profile.",
+          "Apply to open campaigns.",
+          "If selected, try the product you receive and complete the nano-influencer missions.",
+          "When done, apply to new campaigns."
+        ]
+      },
+      "costs": {
+        "pt": "Cadastro sem custo. Exige endereço e dados de perfil. Os termos pedem que você só se candidate a produtos de interesse real e teste pessoalmente o que receber. As missões costumam incluir opinião e posts.",
+        "es": "Registro sin costo. Requiere dirección y datos de perfil. Los términos piden postularse solo a productos de interés real y probar personalmente lo que recibas. Las misiones suelen incluir opinión y publicaciones.",
+        "en": "Free to join. Requires an address and profile data. The terms ask you to apply only for products you genuinely want and to test what you receive yourself. Missions usually include a review and posts."
+      },
+      "frequency": {
+        "pt": "Campanhas abrem de tempos em tempos, com prazo curto de candidatura e vagas limitadas.",
+        "es": "Las campañas se abren de vez en cuando, con plazo corto de postulación y cupos limitados.",
+        "en": "Campaigns open from time to time, with short application windows and limited spots."
+      },
+      "officialUrl": "https://www.sampleo.com/br/content/how-it-works",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://www.sampleo.com/br/",
+        "https://www.sampleo.com/br/content/how-it-works",
+        "https://www.sampleo.com/br/content/cgu"
+      ]
+    },
+    {
+      "id": "ipsos-isay-br",
+      "name": "Ipsos iSay Brasil",
+      "company": "Ipsos",
+      "countries": [
+        "BR"
+      ],
+      "categories": [
+        "testing"
+      ],
+      "access": "points",
+      "summary": {
+        "pt": "Painel de pesquisas pagas em pontos da Ipsos. Às vezes convida membros para testar produtos novos ou redesenhados e responder pesquisas de acompanhamento.",
+        "es": "Panel de encuestas pagadas en puntos de Ipsos. A veces invita a miembros a probar productos nuevos o rediseñados y responder encuestas de seguimiento.",
+        "en": "Ipsos's paid survey panel with points. It sometimes invites members to try new or redesigned products and answer follow-up surveys."
+      },
+      "eligibility": {
+        "pt": "Pessoas cadastradas no painel do Brasil. Testes de produto dependem do perfil e da qualificação em cada estudo. Consulte os termos para idade mínima.",
+        "es": "Personas registradas en el panel de Brasil. Las pruebas de producto dependen del perfil y de calificar en cada estudio. Consulta los términos para la edad mínima.",
+        "en": "People registered on the Brazil panel. Product tests depend on your profile and qualifying for each study. See the terms for the minimum age."
+      },
+      "steps": {
+        "pt": [
+          "Cadastre-se gratuitamente no Ipsos iSay escolhendo Brasil.",
+          "Preencha seu perfil.",
+          "Responda às pesquisas para acumular pontos.",
+          "Se surgir um convite de teste de produto e você se qualificar, siga as instruções do estudo.",
+          "Troque os pontos por vales-presente e outras recompensas."
+        ],
+        "es": [
+          "Regístrate gratis en Ipsos iSay eligiendo Brasil.",
+          "Completa tu perfil.",
+          "Responde encuestas para acumular puntos.",
+          "Si aparece una invitación a prueba de producto y calificas, sigue las instrucciones del estudio.",
+          "Canjea los puntos por tarjetas de regalo y otras recompensas."
+        ],
+        "en": [
+          "Sign up for free on Ipsos iSay, choosing Brazil.",
+          "Fill in your profile.",
+          "Answer surveys to collect points.",
+          "If a product test invitation appears and you qualify, follow the study instructions.",
+          "Redeem points for gift cards and other rewards."
+        ]
+      },
+      "costs": {
+        "pt": "Cadastro gratuito. Exige dados pessoais e de perfil. Testes de produto não são garantidos e exigem responder a pesquisas de acompanhamento.",
+        "es": "Registro gratuito. Requiere datos personales y de perfil. Las pruebas de producto no están garantizadas y exigen responder encuestas de seguimiento.",
+        "en": "Free to join. Requires personal and profile data. Product tests are not guaranteed and require answering follow-up surveys."
+      },
+      "frequency": {
+        "pt": "Pesquisas frequentes; testes de produto são ocasionais e com vagas limitadas.",
+        "es": "Encuestas frecuentes; las pruebas de producto son ocasionales y con cupos limitados.",
+        "en": "Frequent surveys; product tests are occasional with limited spots."
+      },
+      "officialUrl": "https://www.ipsosisay.com/join/?locale=pt_BR",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://www.ipsosisay.com/join/?locale=pt_BR"
+      ]
+    },
+    {
+      "id": "epoca-cosmeticos-amostras-br",
+      "name": "Época Cosméticos amostras com cupom",
+      "company": "Época Cosméticos",
+      "countries": [
+        "BR"
+      ],
+      "categories": [
+        "beauty",
+        "perfume"
+      ],
+      "access": "purchase",
+      "summary": {
+        "pt": "A loja oferece amostras como brinde em compras acima de um valor mínimo, usando cupons promocionais divulgados na página oficial de cupons.",
+        "es": "La tienda ofrece muestras de regalo en compras por encima de un monto mínimo, usando cupones promocionales publicados en su página oficial de cupones.",
+        "en": "The store offers samples as a gift on orders above a minimum amount, using promo codes listed on its official coupon page."
+      },
+      "eligibility": {
+        "pt": "Clientes que compram na Época Cosméticos produtos vendidos e entregues pela própria loja e atingem o valor mínimo do cupom.",
+        "es": "Clientes que compran en Época Cosméticos productos vendidos y entregados por la propia tienda y alcanzan el monto mínimo del cupón.",
+        "en": "Customers buying from Época Cosméticos items sold and delivered by the store itself who reach the coupon's minimum amount."
+      },
+      "steps": {
+        "pt": [
+          "Abra a página Quero Cupom da Época Cosméticos.",
+          "Veja qual cupom de amostras está ativo e o valor mínimo.",
+          "Monte o carrinho com produtos vendidos e entregues pela Época.",
+          "Aplique o cupom antes de finalizar e confira o brinde no resumo do pedido."
+        ],
+        "es": [
+          "Abre la página Quero Cupom de Época Cosméticos.",
+          "Revisa qué cupón de muestras está activo y el monto mínimo.",
+          "Arma el carrito con productos vendidos y entregados por Época.",
+          "Aplica el cupón antes de pagar y verifica el regalo en el resumen del pedido."
+        ],
+        "en": [
+          "Open Época Cosméticos' Quero Cupom page.",
+          "See which sample coupon is active and its minimum amount.",
+          "Fill your cart with items sold and delivered by Época.",
+          "Apply the coupon before checkout and confirm the gift in the order summary."
+        ]
+      },
+      "costs": {
+        "pt": "Exige compra mínima (ex.: em 13/11/2026, cupom AMOPERFUME dava 5 amostras de perfume acima de R$229, válido até 31/12/2026). Enquanto durarem os estoques; brindes, cupons e descontos não são cumulativos.",
+        "es": "Exige compra mínima (ej.: el 13/11/2026, el cupón AMOPERFUME daba 5 muestras de perfume por encima de R$229, válido hasta el 31/12/2026). Hasta agotar existencias; regalos, cupones y descuentos no son acumulables.",
+        "en": "Requires a minimum purchase (e.g., on 2026-11-13, code AMOPERFUME gave 5 perfume samples on orders over R$229, valid until 2026-12-31). While stocks last; gifts, coupons and discounts do not stack."
+      },
+      "frequency": {
+        "pt": "Cupons de amostras mudam ao longo do ano; confira a página oficial antes de comprar.",
+        "es": "Los cupones de muestras cambian durante el año; revisa la página oficial antes de comprar.",
+        "en": "Sample coupons change during the year; check the official page before buying."
+      },
+      "officialUrl": "https://www.epocacosmeticos.com.br/quero-cupom",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://www.epocacosmeticos.com.br/quero-cupom"
+      ]
+    },
+    {
+      "id": "eu-quero-nestle-amostras-br",
+      "name": "Eu Quero Nestlé (Amostras)",
+      "company": "Nestlé Brasil",
+      "countries": [
+        "BR"
+      ],
+      "categories": [
+        "food"
+      ],
+      "access": "open",
+      "summary": {
+        "pt": "Portal oficial da Nestlé para pedir amostras de produtos das marcas Nestlé e avaliá-los depois. As campanhas têm estoque limitado e abrem de forma intermitente.",
+        "es": "Portal oficial de Nestlé para pedir muestras de productos de sus marcas y evaluarlos después. Las campañas tienen stock limitado y abren de forma intermitente.",
+        "en": "Nestlé's official portal for requesting samples of Nestlé-brand products and reviewing them afterwards. Campaigns have limited stock and open intermittently."
+      },
+      "eligibility": {
+        "pt": "Pessoa com CPF e Conta Nestlé, legalmente capaz. Cada campanha tem área geográfica limitada; o endereço precisa estar na região atendida.",
+        "es": "Persona con CPF y Cuenta Nestlé, legalmente capaz. Cada campaña cubre una zona geográfica limitada; la dirección debe estar en la región atendida.",
+        "en": "Legally capable person with a Brazilian CPF and a Nestlé Account. Each campaign covers a limited area; the delivery address must be within it."
+      },
+      "steps": {
+        "pt": [
+          "Crie sua Conta Nestlé no portal Eu Quero Nestlé.",
+          "Veja se há amostras disponíveis na página inicial.",
+          "Escolha um produto e confirme o endereço de entrega.",
+          "Ao receber, marque o pedido como recebido e responda a pesquisa de satisfação.",
+          "Depois da pesquisa, você pode pedir outra amostra quando houver campanha aberta."
+        ],
+        "es": [
+          "Crea tu Cuenta Nestlé en el portal Eu Quero Nestlé.",
+          "Revisa si hay muestras disponibles en la página de inicio.",
+          "Elige un producto y confirma la dirección de entrega.",
+          "Al recibirlo, marca el pedido como recibido y responde la encuesta de satisfacción.",
+          "Después de la encuesta, puedes pedir otra muestra cuando haya una campaña abierta."
+        ],
+        "en": [
+          "Create a Nestlé Account on the Eu Quero Nestlé portal.",
+          "Check the home page for available samples.",
+          "Choose a product and confirm the delivery address.",
+          "Once it arrives, mark the order as received and answer the satisfaction survey.",
+          "After the survey you can request another sample when a campaign is open."
+        ]
+      },
+      "costs": {
+        "pt": "Gratuito, sem custo de entrega segundo a Nestlé. Exige cadastro com CPF e dados pessoais. Um produto por CPF por vez, e é preciso responder a pesquisa para pedir de novo.",
+        "es": "Gratis, sin costo de envío según Nestlé. Requiere registro con CPF y datos personales. Un producto por CPF a la vez, y hay que responder la encuesta para volver a pedir.",
+        "en": "Free, with no delivery charge according to Nestlé. Requires sign-up with CPF and personal data. One product per CPF at a time, and you must answer the survey before ordering again."
+      },
+      "frequency": {
+        "pt": "Campanhas intermitentes e com estoque limitado. Em 13/11/2026 o portal informava que os produtos tinham acabado por enquanto.",
+        "es": "Campañas intermitentes y con stock limitado. El 13/11/2026 el portal indicaba que los productos se habían agotado por ahora.",
+        "en": "Intermittent campaigns with limited stock. On 2026-11-13 the portal said products had run out for now."
+      },
+      "officialUrl": "https://amostras.euqueronestle.com.br/",
+      "verifiedAt": "2026-11-13",
+      "featured": true,
+      "sources": [
+        "https://amostras.euqueronestle.com.br/",
+        "https://amostras.euqueronestle.com.br/detalhes/duvidas-frequentes",
+        "https://amostras.euqueronestle.com.br/detalhes/sobre",
+        "https://amostras.euqueronestle.com.br/detalhes/termos-de-uso"
+      ]
+    },
+    {
+      "id": "loreal-avaliacao-de-produtos-br",
+      "name": "Avaliação de Produtos L'Oréal (painel de voluntários)",
+      "company": "L'Oréal Brasil",
+      "countries": [
+        "BR"
+      ],
+      "categories": [
+        "beauty",
+        "testing"
+      ],
+      "access": "selection",
+      "summary": {
+        "pt": "Painel oficial de voluntários da L'Oréal para pesquisas e testes de cosméticos de pele, cabelo e maquiagem no Brasil. A empresa seleciona quem participa de cada teste.",
+        "es": "Panel oficial de voluntarios de L'Oréal para encuestas y pruebas de cosméticos de piel, cabello y maquillaje en Brasil. La empresa selecciona a quién participa en cada prueba.",
+        "en": "L'Oréal's official volunteer panel for surveys and tests of skin, hair and makeup cosmetics in Brazil. The company selects who takes part in each test."
+      },
+      "eligibility": {
+        "pt": "Pessoas no Brasil que se cadastrem no painel. Requisitos de idade e perfil constam nos Termos de Uso do site.",
+        "es": "Personas en Brasil que se registren en el panel. Los requisitos de edad y perfil están en los Términos de Uso del sitio.",
+        "en": "People in Brazil who register for the panel. Age and profile requirements are in the site's Terms of Use."
+      },
+      "steps": {
+        "pt": [
+          "Acesse o site Avaliação de Produtos L'Oréal.",
+          "Clique em Cadastre-se e preencha seu perfil.",
+          "Leia os Termos de Uso e a Política de Privacidade.",
+          "Aguarde convites para pesquisas ou testes compatíveis com seu perfil.",
+          "Siga as instruções de cada teste para o qual for selecionado."
+        ],
+        "es": [
+          "Entra al sitio Avaliação de Produtos L'Oréal.",
+          "Haz clic en Cadastre-se y completa tu perfil.",
+          "Lee los Términos de Uso y la Política de Privacidad.",
+          "Espera invitaciones a encuestas o pruebas acordes con tu perfil.",
+          "Sigue las instrucciones de cada prueba para la que seas seleccionado."
+        ],
+        "en": [
+          "Go to the L'Oréal Avaliação de Produtos site.",
+          "Click Cadastre-se and fill in your profile.",
+          "Read the Terms of Use and Privacy Policy.",
+          "Wait for invitations to surveys or tests that match your profile.",
+          "Follow the instructions for each test you are selected for."
+        ]
+      },
+      "costs": {
+        "pt": "Cadastro gratuito com dados pessoais e de perfil. Local, formato e eventuais exigências de cada teste são informados no convite.",
+        "es": "Registro gratuito con datos personales y de perfil. El lugar, formato y requisitos de cada prueba se informan en la invitación.",
+        "en": "Free sign-up with personal and profile data. Location, format and any requirements for each test are given in the invitation."
+      },
+      "frequency": {
+        "pt": "Convites conforme a necessidade de testes da empresa; não há calendário fixo.",
+        "es": "Invitaciones según la necesidad de pruebas de la empresa; no hay calendario fijo.",
+        "en": "Invitations depend on the company's testing needs; there is no fixed schedule."
+      },
+      "officialUrl": "https://avaliacaoproduto.loreal.com.br/",
+      "verifiedAt": "2026-11-13",
+      "featured": true,
+      "sources": [
+        "https://avaliacaoproduto.loreal.com.br/portal/default",
+        "https://www.loreal.com/pt-br/brazil/news/grupo/avaliacao-sensorial-como-funciona-a-analise-das-percepcoes-dos-cosmeticos-nos-laboratorios-da-loreal/"
+      ]
+    },
+    {
+      "id": "voluncheers-grupo-boticario-br",
+      "name": "Voluncheers",
+      "company": "Grupo Boticário",
+      "countries": [
+        "BR"
+      ],
+      "categories": [
+        "beauty",
+        "testing"
+      ],
+      "access": "selection",
+      "summary": {
+        "pt": "Programa oficial de voluntários do Grupo Boticário para pesquisas, painéis e testes sensoriais, instrumentais e de opinião sobre produtos. Você se cadastra e pode ser convidado para testes.",
+        "es": "Programa oficial de voluntarios del Grupo Boticário para encuestas, paneles y pruebas sensoriales, instrumentales y de opinión sobre productos. Te registras y pueden invitarte a pruebas.",
+        "en": "Grupo Boticário's official volunteer program for surveys, panels and sensory, instrumental and opinion tests of products. You register and may be invited to tests."
+      },
+      "eligibility": {
+        "pt": "Pessoas no Brasil que completem o cadastro e a autodeclaração de saúde e características. Sem a autodeclaração, não é possível ser chamado para testes.",
+        "es": "Personas en Brasil que completen el registro y la autodeclaración de salud y características. Sin la autodeclaración no es posible ser llamado a pruebas.",
+        "en": "People in Brazil who complete the sign-up and the health and characteristics self-declaration. Without it you cannot be called for tests."
+      },
+      "steps": {
+        "pt": [
+          "Acesse o site Voluncheers e clique em Quero ser um voluntário.",
+          "Conclua o cadastro pelo e-mail com a senha recebida.",
+          "Preencha a autodeclaração e suas características (pele, cabelo, hábitos).",
+          "Acompanhe os convites na plataforma.",
+          "Aceite o termo de consentimento do teste para o qual for convidado."
+        ],
+        "es": [
+          "Entra al sitio Voluncheers y haz clic en Quero ser um voluntário.",
+          "Completa el registro por correo con la contraseña recibida.",
+          "Llena la autodeclaración y tus características (piel, cabello, hábitos).",
+          "Revisa las invitaciones en la plataforma.",
+          "Acepta el término de consentimiento de la prueba a la que te inviten."
+        ],
+        "en": [
+          "Go to the Voluncheers site and click Quero ser um voluntário.",
+          "Finish sign-up via the email and password you receive.",
+          "Fill in the self-declaration and your characteristics (skin, hair, habits).",
+          "Check invitations on the platform.",
+          "Accept the consent form for any test you are invited to."
+        ]
+      },
+      "costs": {
+        "pt": "Cadastro gratuito. Pede dados pessoais sensíveis (saúde, etnia, tipo de pele e cabelo) para garantir a segurança nos testes. Detalhes de cada teste vêm no convite.",
+        "es": "Registro gratuito. Pide datos personales sensibles (salud, etnia, tipo de piel y cabello) para la seguridad en las pruebas. Los detalles de cada prueba llegan en la invitación.",
+        "en": "Free sign-up. Asks for sensitive personal data (health, ethnicity, skin and hair type) for test safety. Details of each test come with the invitation."
+      },
+      "frequency": {
+        "pt": "Convites conforme os testes em andamento; vagas definidas pela empresa.",
+        "es": "Invitaciones según las pruebas en curso; los cupos los define la empresa.",
+        "en": "Invitations depend on ongoing tests; the company sets the number of places."
+      },
+      "officialUrl": "https://voluncheers.grupoboticario.com.br/",
+      "verifiedAt": "2026-11-13",
+      "featured": true,
+      "sources": [
+        "https://voluncheers.grupoboticario.com.br/",
+        "https://voluncheers.grupoboticario.com.br/register",
+        "https://www.grupoboticario.com.br/privacidade/politica-de-privacidade/"
+      ]
+    },
+    {
+      "id": "beautybox-grupo-boticario-br",
+      "name": "Beautybox (programa de fidelidade)",
+      "company": "Grupo Boticário (O Boticário, Quem Disse, Berenice?, Eudora)",
+      "countries": [
+        "BR"
+      ],
+      "categories": [
+        "beauty",
+        "perfume"
+      ],
+      "access": "club",
+      "summary": {
+        "pt": "Programa de fidelidade do Grupo Boticário. Pontos de compras e de desafios podem ser trocados por produtos, brindes, serviços ou desconto, conforme disponibilidade.",
+        "es": "Programa de fidelidad del Grupo Boticário. Los puntos de compras y desafíos se pueden canjear por productos, obsequios, servicios o descuentos, según disponibilidad.",
+        "en": "Grupo Boticário's loyalty program. Points from purchases and challenges can be exchanged for products, gifts, services or discounts, subject to availability."
+      },
+      "eligibility": {
+        "pt": "Maiores de 18 anos com cadastro completo no programa. Consultores e gerentes de lojas próprias e franquias não podem participar.",
+        "es": "Mayores de 18 años con registro completo en el programa. Consultores y gerentes de tiendas propias y franquicias no pueden participar.",
+        "en": "Adults 18+ with a completed program sign-up. Staff of own stores and franchises cannot take part."
+      },
+      "steps": {
+        "pt": [
+          "Cadastre-se no programa de fidelidade no site, app ou em loja.",
+          "Informe o CPF nas compras das marcas participantes para acumular pontos.",
+          "Cumpra desafios do programa (como avaliar produtos) para pontos extras.",
+          "Troque os pontos por desconto, produtos ou brindes disponíveis."
+        ],
+        "es": [
+          "Regístrate en el programa de fidelidad en el sitio, la app o en tienda.",
+          "Informa tu CPF en las compras de las marcas participantes para sumar puntos.",
+          "Completa desafíos del programa (como evaluar productos) para puntos extra.",
+          "Canjea los puntos por descuento, productos u obsequios disponibles."
+        ],
+        "en": [
+          "Join the loyalty program on the website, app or in store.",
+          "Give your CPF when buying from participating brands to earn points.",
+          "Complete program challenges (such as reviewing products) for extra points.",
+          "Exchange points for discounts, products or available gifts."
+        ]
+      },
+      "costs": {
+        "pt": "Participação gratuita, mas os pontos vêm principalmente de compras (1 ponto por R$1). Não é programa de amostras grátis. Pontos expiram em 12 ou 18 meses conforme o nível.",
+        "es": "Participación gratuita, pero los puntos vienen sobre todo de compras (1 punto por R$1). No es un programa de muestras gratis. Los puntos vencen en 12 o 18 meses según el nivel.",
+        "en": "Free to join, but points mainly come from purchases (1 point per R$1). It is not a free-sample program. Points expire after 12 or 18 months depending on tier."
+      },
+      "frequency": {
+        "pt": "Programa contínuo; brindes e recompensas variam por campanha.",
+        "es": "Programa continuo; obsequios y recompensas varían por campaña.",
+        "en": "Ongoing program; gifts and rewards vary by campaign."
+      },
+      "officialUrl": "https://www.boticario.com.br/fidelidade/",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://www.boticario.com.br/fidelidade/",
+        "https://www.boticario.com.br/atendimento-online/fidelidade/regulamento-do-programa"
+      ]
+    },
+    {
+      "id": "dermaclub-loreal-br",
+      "name": "Dermaclub",
+      "company": "L'Oréal Brasil (La Roche-Posay, Vichy, CeraVe, SkinCeuticals)",
+      "countries": [
+        "BR"
+      ],
+      "categories": [
+        "beauty"
+      ],
+      "access": "club",
+      "summary": {
+        "pt": "Clube de vantagens das marcas dermatológicas da L'Oréal. Compras com CPF geram pontos que podem ser trocados por produtos a partir de 3.000 pontos.",
+        "es": "Club de beneficios de las marcas dermatológicas de L'Oréal. Las compras con CPF suman puntos canjeables por productos a partir de 3.000 puntos.",
+        "en": "Rewards club for L'Oréal's dermatological brands. Purchases linked to your CPF earn points that can be exchanged for products from 3,000 points."
+      },
+      "eligibility": {
+        "pt": "Pessoas no Brasil com cadastro gratuito no Dermaclub e CPF.",
+        "es": "Personas en Brasil con registro gratuito en Dermaclub y CPF.",
+        "en": "People in Brazil with a free Dermaclub account and a CPF."
+      },
+      "steps": {
+        "pt": [
+          "Cadastre-se no site do Dermaclub.",
+          "Compre produtos das marcas em farmácias ou lojas online parceiras informando o CPF.",
+          "Acompanhe os pontos, creditados em até 48 horas.",
+          "Em Troque seus pontos, escolha um produto e informe os dados de entrega."
+        ],
+        "es": [
+          "Regístrate en el sitio de Dermaclub.",
+          "Compra productos de las marcas en farmacias o tiendas online asociadas informando tu CPF.",
+          "Revisa tus puntos, acreditados en hasta 48 horas.",
+          "En Troque seus pontos, elige un producto e indica los datos de entrega."
+        ],
+        "en": [
+          "Sign up on the Dermaclub website.",
+          "Buy the brands' products at partner pharmacies or online stores using your CPF.",
+          "Track your points, credited within 48 hours.",
+          "Under Troque seus pontos, choose a product and enter delivery details."
+        ]
+      },
+      "costs": {
+        "pt": "Cadastro gratuito; pontos dependem de compras (10 pontos por R$1). Não é amostra grátis. Pontos valem 12 meses. Consulte no resgate se há frete.",
+        "es": "Registro gratuito; los puntos dependen de compras (10 puntos por R$1). No es muestra gratis. Los puntos valen 12 meses. Consulta al canjear si hay costo de envío.",
+        "en": "Free sign-up; points depend on purchases (10 points per R$1). Not a free sample. Points last 12 months. Check for shipping costs when redeeming."
+      },
+      "frequency": {
+        "pt": "Programa contínuo; catálogo de resgate renovado mensalmente.",
+        "es": "Programa continuo; catálogo de canje renovado cada mes.",
+        "en": "Ongoing program; redemption catalog refreshed monthly."
+      },
+      "officialUrl": "https://www.dermaclub.com.br/odermaclub.html",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://www.dermaclub.com.br/odermaclub.html",
+        "https://www.dermaclub.com.br/customer-service/customer-service-faqs.html"
+      ]
+    },
+    {
+      "id": "sephora-experimente-antes-de-usar-br",
+      "name": "Sephora Experimente Antes de Usar",
+      "company": "Sephora Brasil",
+      "countries": [
+        "BR"
+      ],
+      "categories": [
+        "perfume"
+      ],
+      "access": "purchase",
+      "summary": {
+        "pt": "Ao comprar online um perfume participante, o pedido vem com uma amostra do mesmo produto. Se não gostar da amostra, pode devolver o produto lacrado e receber o dinheiro de volta.",
+        "es": "Al comprar online un perfume participante, el pedido llega con una muestra del mismo producto. Si no te gusta la muestra, puedes devolver el producto sellado y recibir el reembolso.",
+        "en": "When you buy a participating perfume online, the order includes a sample of the same product. If you don't like the sample, you can return the sealed product for a refund."
+      },
+      "eligibility": {
+        "pt": "Clientes que compram produtos participantes no site da Sephora Brasil.",
+        "es": "Clientes que compran productos participantes en el sitio de Sephora Brasil.",
+        "en": "Customers buying participating products on the Sephora Brasil website."
+      },
+      "steps": {
+        "pt": [
+          "Abra a página do perfume desejado no site da Sephora.",
+          "Confira se aparece o aviso Experimente antes de usar abaixo do botão Adicionar à sacola.",
+          "Compre online o produto participante.",
+          "Teste a amostra antes de abrir o produto.",
+          "Se não gostar, devolva o produto lacrado com a nota fiscal pelo processo de devolução."
+        ],
+        "es": [
+          "Abre la página del perfume en el sitio de Sephora.",
+          "Verifica que aparezca el aviso Experimente antes de usar debajo del botón Adicionar à sacola.",
+          "Compra online el producto participante.",
+          "Prueba la muestra antes de abrir el producto.",
+          "Si no te gusta, devuelve el producto sellado con la factura por el proceso de devolución."
+        ],
+        "en": [
+          "Open the perfume's page on the Sephora site.",
+          "Check that the Experimente antes de usar notice appears under the Adicionar à sacola button.",
+          "Buy the participating product online.",
+          "Try the sample before opening the product.",
+          "If you don't like it, return the sealed product with the invoice through the returns process."
+        ]
+      },
+      "costs": {
+        "pt": "Exige compra do produto. Para o reembolso, o pedido deve voltar intacto, sem uso, com todos os itens (exceto a amostra) e a nota fiscal.",
+        "es": "Requiere comprar el producto. Para el reembolso, el pedido debe volver intacto, sin uso, con todos los artículos (excepto la muestra) y la factura.",
+        "en": "Requires buying the product. For a refund the order must come back intact, unused, with all items (except the sample) and the invoice."
+      },
+      "frequency": {
+        "pt": "Contínuo, apenas para os produtos marcados como participantes.",
+        "es": "Continuo, solo para los productos marcados como participantes.",
+        "en": "Ongoing, only for products marked as participating."
+      },
+      "officialUrl": "https://www.sephora.com.br/experimente-antes-de-usar.html",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://www.sephora.com.br/experimente-antes-de-usar.html"
+      ]
+    },
+    {
+      "id": "sephora-beauty-club-br",
+      "name": "Sephora Beauty Club",
+      "company": "Sephora Brasil",
+      "countries": [
+        "BR"
+      ],
+      "categories": [
+        "beauty",
+        "perfume"
+      ],
+      "access": "club",
+      "summary": {
+        "pt": "Programa de fidelidade da Sephora. Brindes e amostras de campanhas promocionais valem só para membros, e os pontos de compras podem ser trocados por recompensas no carrinho.",
+        "es": "Programa de fidelidad de Sephora. Los obsequios y muestras de campañas promocionales son solo para miembros, y los puntos de compras se canjean por recompensas en el carrito.",
+        "en": "Sephora's loyalty program. Gifts and samples from promotional campaigns are for members only, and purchase points can be exchanged for rewards in the cart."
+      },
+      "eligibility": {
+        "pt": "Maiores de 18 anos residentes no Brasil, uma conta por CPF.",
+        "es": "Mayores de 18 años residentes en Brasil, una cuenta por CPF.",
+        "en": "Adults 18+ residing in Brazil, one account per CPF."
+      },
+      "steps": {
+        "pt": [
+          "Cadastre-se no site ou app da Sephora e marque a adesão ao Beauty Club.",
+          "Compre informando o CPF para acumular pontos.",
+          "No carrinho, confira os brindes da promoção do dia.",
+          "Em Resgate suas recompensas, escolha uma recompensa e finalize a compra para recebê-la."
+        ],
+        "es": [
+          "Regístrate en el sitio o app de Sephora y marca la adhesión al Beauty Club.",
+          "Compra informando tu CPF para sumar puntos.",
+          "En el carrito, revisa los obsequios de la promoción del día.",
+          "En Resgate suas recompensas, elige una recompensa y finaliza la compra para recibirla."
+        ],
+        "en": [
+          "Sign up on the Sephora site or app and opt in to Beauty Club.",
+          "Buy using your CPF to earn points.",
+          "Check the day's promotional gifts in the cart.",
+          "Under Resgate suas recompensas, choose a reward and complete the purchase to receive it."
+        ]
+      },
+      "costs": {
+        "pt": "Cadastro gratuito, mas brindes e recompensas dependem de compra e de estoque. Amostras de brinde são escolhidas aleatoriamente pela Sephora.",
+        "es": "Registro gratuito, pero obsequios y recompensas dependen de compra y stock. Las muestras de obsequio las elige Sephora al azar.",
+        "en": "Free to join, but gifts and rewards depend on a purchase and stock. Gift samples are chosen at random by Sephora."
+      },
+      "frequency": {
+        "pt": "Contínuo; brindes mudam conforme a promoção do dia e por tempo limitado.",
+        "es": "Continuo; los obsequios cambian según la promoción del día y por tiempo limitado.",
+        "en": "Ongoing; gifts change with the day's promotion and for limited periods."
+      },
+      "officialUrl": "https://www.sephora.com.br/regulamento/regulation.html",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://www.sephora.com.br/regulamento/regulation.html",
+        "https://www.sephora.com.br/on/demandware.store/Sites-Sephora_BR-Site/pt_BR/BeautyClub-FAQPage",
+        "https://www.sephora.com.br/institucional/?cid=FAQs"
+      ]
+    },
+    {
+      "id": "clube-mam-baby-br",
+      "name": "Clube MAM",
+      "company": "MAM Baby Brasil",
+      "countries": [
+        "BR"
+      ],
+      "categories": [
+        "baby"
+      ],
+      "access": "club",
+      "summary": {
+        "pt": "Cadastro gratuito da MAM Baby para gestantes e famílias. A página oficial cita frete grátis na primeira compra acima de R$60, newsletter de gravidez e brindes em promoções da marca.",
+        "es": "Registro gratuito de MAM Baby para embarazadas y familias. La página oficial menciona envío gratis en la primera compra sobre R$60, boletín de embarazo y obsequios en promociones de la marca.",
+        "en": "Free MAM Baby sign-up for expectant parents and families. The official page mentions free shipping on a first order over R$60, a pregnancy newsletter and gifts in brand promotions."
+      },
+      "eligibility": {
+        "pt": "Gestantes, mães e famílias no Brasil com e-mail.",
+        "es": "Embarazadas, madres y familias en Brasil con correo electrónico.",
+        "en": "Expectant parents, mothers and families in Brazil with an email address."
+      },
+      "steps": {
+        "pt": [
+          "Acesse a página Clube MAM no site da MAM Baby.",
+          "Informe e-mail e se está grávida ou esperando bebê.",
+          "Opcionalmente, informe a data prevista e o nome do bebê.",
+          "Acompanhe os e-mails para saber das promoções com brinde."
+        ],
+        "es": [
+          "Entra a la página Clube MAM en el sitio de MAM Baby.",
+          "Indica tu correo y si estás embarazada o esperando un bebé.",
+          "Opcionalmente, indica la fecha prevista y el nombre del bebé.",
+          "Revisa los correos para enterarte de promociones con obsequio."
+        ],
+        "en": [
+          "Go to the Clube MAM page on the MAM Baby website.",
+          "Enter your email and whether you are expecting a baby.",
+          "Optionally add the due date and the baby's name.",
+          "Watch your email for promotions that include gifts."
+        ]
+      },
+      "costs": {
+        "pt": "Cadastro gratuito. Brindes dependem de promoções e estoque. O benefício de frete não vale para chupetas, mamadeiras, bicos e protetores de seios, por lei.",
+        "es": "Registro gratuito. Los obsequios dependen de promociones y stock. El beneficio de envío no aplica a chupetes, biberones, tetinas y protectores de pezón, por ley.",
+        "en": "Free sign-up. Gifts depend on promotions and stock. By law, the shipping perk does not apply to pacifiers, bottles, teats and nipple shields."
+      },
+      "frequency": {
+        "pt": "Cadastro contínuo; brindes só em promoções pontuais.",
+        "es": "Registro continuo; obsequios solo en promociones puntuales.",
+        "en": "Ongoing sign-up; gifts only in occasional promotions."
+      },
+      "officialUrl": "https://mambaby.com.br/pages/clube-mam",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://mambaby.com.br/pages/clube-mam"
+      ]
+    },
+    {
+      "id": "granado-clube-fidelidade-br",
+      "name": "Clube Fidelidade Granado",
+      "company": "Granado (Granado, Phebo, CARE)",
+      "countries": [
+        "BR"
+      ],
+      "categories": [
+        "beauty",
+        "perfume"
+      ],
+      "access": "club",
+      "summary": {
+        "pt": "Programa de pontos da Granado, Phebo e CARE. Pontos de compras, missões e códigos promocionais podem ser trocados por produtos do catálogo de resgate.",
+        "es": "Programa de puntos de Granado, Phebo y CARE. Los puntos de compras, misiones y códigos promocionales se canjean por productos del catálogo.",
+        "en": "Points program for Granado, Phebo and CARE. Points from purchases, missions and promo codes can be exchanged for products in the redemption catalog."
+      },
+      "eligibility": {
+        "pt": "Maiores de 18 anos com CPF, cadastrados no Clube Fidelidade.",
+        "es": "Mayores de 18 años con CPF, registrados en el Clube Fidelidade.",
+        "en": "Adults 18+ with a CPF who are registered in the Clube Fidelidade."
+      },
+      "steps": {
+        "pt": [
+          "Cadastre-se e aceite os termos do Clube Fidelidade no site.",
+          "Compre nas lojas próprias ou no site Granado/Phebo/CARE informando o CPF.",
+          "Participe de missões quando disponíveis para pontos extras.",
+          "Troque os pontos por produtos no catálogo de resgate."
+        ],
+        "es": [
+          "Regístrate y acepta los términos del Clube Fidelidade en el sitio.",
+          "Compra en tiendas propias o en el sitio Granado/Phebo/CARE informando tu CPF.",
+          "Participa en misiones cuando haya, para puntos extra.",
+          "Canjea los puntos por productos del catálogo."
+        ],
+        "en": [
+          "Sign up and accept the Clube Fidelidade terms on the website.",
+          "Buy in Granado/Phebo/CARE own stores or website using your CPF.",
+          "Join missions when available for extra points.",
+          "Exchange points for products in the redemption catalog."
+        ]
+      },
+      "costs": {
+        "pt": "Cadastro gratuito; pontos vêm principalmente de compras (1 ponto por R$1). Não é programa de amostras grátis. Pontos expiram em 12 meses.",
+        "es": "Registro gratuito; los puntos vienen sobre todo de compras (1 punto por R$1). No es un programa de muestras gratis. Los puntos vencen en 12 meses.",
+        "en": "Free to join; points mainly come from purchases (1 point per R$1). It is not a free-sample program. Points expire after 12 months."
+      },
+      "frequency": {
+        "pt": "Programa contínuo; catálogo de resgate e preços em pontos podem mudar.",
+        "es": "Programa continuo; el catálogo y los precios en puntos pueden cambiar.",
+        "en": "Ongoing program; catalog and point prices may change."
+      },
+      "officialUrl": "https://www.granado.com.br/granado/clube-fidelidade-como-funciona",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://www.granado.com.br/granado/clube-fidelidade-como-funciona",
+        "https://www.granado.com.br/clube-fidelidade-termo-de-uso"
+      ]
+    },
+    {
+      "id": "als-allergisa-voluntarios-br",
+      "name": "ALS Allergisa - Participante de pesquisa",
+      "company": "ALS Allergisa (ALS Beauty & Personal Care)",
+      "countries": [
+        "BR"
+      ],
+      "categories": [
+        "beauty",
+        "testing"
+      ],
+      "access": "selection",
+      "summary": {
+        "pt": "Instituto de pesquisa clínica que testa a segurança e a eficácia de cosméticos, maquiagens, produtos capilares e protetores solares com voluntários. Os estudos são presenciais e a página oficial cita ressarcimento financeiro pela participação.",
+        "es": "Instituto de investigación clínica que prueba la seguridad y eficacia de cosméticos, maquillaje, productos capilares y protectores solares con voluntarios. Los estudios son presenciales y la página oficial menciona un reembolso económico por participar.",
+        "en": "Clinical research institute that tests the safety and efficacy of cosmetics, makeup, hair products and sunscreens with volunteers. Studies are in person, and the official page mentions financial reimbursement for taking part."
+      },
+      "eligibility": {
+        "pt": "Pessoas que possam ir às unidades listadas pela ALS no Brasil (Campinas/Barão Geraldo, Hortolândia, Campo Grande e Amazonas) e que atendam aos critérios de cada estudo (idade, tipo de pele, saúde).",
+        "es": "Personas que puedan acudir a las sedes que la ALS indica en Brasil (Campinas/Barão Geraldo, Hortolândia, Campo Grande y Amazonas) y cumplan los criterios de cada estudio (edad, tipo de piel, salud).",
+        "en": "People who can attend the ALS sites listed in Brazil (Campinas/Barão Geraldo, Hortolândia, Campo Grande and Amazonas) and who meet each study's criteria (age, skin type, health)."
+      },
+      "steps": {
+        "pt": [
+          "Acesse a página de estudos clínicos da ALS e escolha sua localidade.",
+          "Veja os estudos disponíveis e se inscreva no que combina com seu perfil.",
+          "Se nenhum servir, cadastre-se para oportunidades futuras.",
+          "Se for pré-selecionado, compareça à avaliação na unidade.",
+          "Leia e assine o Termo de Consentimento (TCLE) antes de começar."
+        ],
+        "es": [
+          "Entra a la página de estudios clínicos de ALS y elige tu localidad.",
+          "Revisa los estudios disponibles e inscríbete en el que coincida con tu perfil.",
+          "Si ninguno aplica, regístrate para oportunidades futuras.",
+          "Si te preseleccionan, acude a la evaluación en la sede.",
+          "Lee y firma el Término de Consentimiento (TCLE) antes de empezar."
+        ],
+        "en": [
+          "Open the ALS clinical studies page and choose your location.",
+          "Browse available studies and apply to one that matches your profile.",
+          "If none fit, register for future opportunities.",
+          "If pre-selected, attend the screening at the site.",
+          "Read and sign the informed consent form (TCLE) before starting."
+        ]
+      },
+      "costs": {
+        "pt": "Inscrição gratuita. Exige ir presencialmente à unidade nas datas do estudo e fornecer dados de saúde. A página oficial cita ressarcimento financeiro; o valor depende do estudo.",
+        "es": "Inscripción gratuita. Requiere acudir en persona a la sede en las fechas del estudio y dar datos de salud. La página oficial menciona un reembolso económico; el monto depende del estudio.",
+        "en": "Free to apply. Requires attending the site in person on study dates and sharing health data. The official page mentions financial reimbursement; the amount depends on the study."
+      },
+      "frequency": {
+        "pt": "Estudos abertos continuamente, com vagas limitadas por perfil.",
+        "es": "Estudios abiertos de forma continua, con cupos limitados por perfil.",
+        "en": "Studies open on a rolling basis, with limited places per profile."
+      },
+      "officialUrl": "https://www.alsglobal.com/pt-BR/Clinical-Studies",
+      "verifiedAt": "2026-11-13",
+      "featured": true,
+      "sources": [
+        "https://www.alsglobal.com/pt-BR/Clinical-Studies",
+        "https://www.alsglobal.com/pt-BR/Clinical-Studies/Campinas-Barao-Geraldo",
+        "https://allergisa.com.br/perguntas_e_respostas.php"
+      ]
+    },
+    {
+      "id": "kosmoscience-participantes-br",
+      "name": "Kosmoscience - Área do Participante",
+      "company": "Kosmoscience",
+      "countries": [
+        "BR"
+      ],
+      "categories": [
+        "beauty",
+        "testing"
+      ],
+      "access": "selection",
+      "summary": {
+        "pt": "Centro de pesquisa que avalia cosméticos, produtos dermatológicos e de cuidados com a casa com voluntários. O cadastro é feito pelo app oficial, e a equipe convida quem se encaixa em cada estudo.",
+        "es": "Centro de investigación que evalúa cosméticos, productos dermatológicos y de cuidado del hogar con voluntarios. El registro se hace en la app oficial y el equipo invita a quien encaje en cada estudio.",
+        "en": "Research center that evaluates cosmetics, dermatological and household products with volunteers. You register in the official app, and the team invites people who fit each study."
+      },
+      "eligibility": {
+        "pt": "Qualquer interessado pode se cadastrar; menores só em estudos específicos, com autorização do responsável. A Kosmoscience fica em Valinhos (SP); a participação depende dos critérios de cada estudo e da sua disponibilidade.",
+        "es": "Cualquier interesado puede registrarse; menores solo en estudios específicos, con autorización del responsable. Kosmoscience está en Valinhos (SP); participar depende de los criterios de cada estudio y de tu disponibilidad.",
+        "en": "Anyone interested can register; minors only in specific studies with guardian consent. Kosmoscience is in Valinhos (SP, Brazil); taking part depends on each study's criteria and your availability."
+      },
+      "steps": {
+        "pt": [
+          "Baixe o app Kosmoscience (Android ou iPhone).",
+          "Faça seu cadastro com dados de saúde, contato e disponibilidade.",
+          "Participe da triagem pelo chat do app.",
+          "Aguarde convites pelo app, WhatsApp ou canais oficiais.",
+          "Mantenha o perfil atualizado para receber estudos compatíveis."
+        ],
+        "es": [
+          "Descarga la app Kosmoscience (Android o iPhone).",
+          "Regístrate con tus datos de salud, contacto y disponibilidad.",
+          "Haz la evaluación inicial por el chat de la app.",
+          "Espera invitaciones por la app, WhatsApp o canales oficiales.",
+          "Mantén el perfil actualizado para recibir estudios compatibles."
+        ],
+        "en": [
+          "Download the Kosmoscience app (Android or iPhone).",
+          "Register with your health, contact and availability details.",
+          "Complete the screening via the in-app chat.",
+          "Wait for invitations via the app, WhatsApp or official channels.",
+          "Keep your profile up to date to get matching studies."
+        ]
+      },
+      "costs": {
+        "pt": "Cadastro gratuito, com dados de saúde. O cadastro não garante participação. A página não detalha local das visitas nem ressarcimento; isso é informado em cada estudo.",
+        "es": "Registro gratuito, con datos de salud. Registrarse no garantiza participar. La página no detalla el lugar de las visitas ni el reembolso; se informa en cada estudio.",
+        "en": "Free sign-up with health data. Registering does not guarantee participation. The page does not detail visit location or reimbursement; these are given per study."
+      },
+      "frequency": {
+        "pt": "Convites conforme os estudos em andamento.",
+        "es": "Invitaciones según los estudios en curso.",
+        "en": "Invitations depend on ongoing studies."
+      },
+      "officialUrl": "https://kosmoscience.com/pt-br/participantes/",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://kosmoscience.com/pt-br/participantes/",
+        "https://kosmoscience.com/en/participants/"
+      ]
+    },
+    {
+      "id": "grupo-medcin-participantes-br",
+      "name": "Grupo Medcin - Seja um participante",
+      "company": "Grupo Medcin (Medcin Instituto da Pele)",
+      "countries": [
+        "BR"
+      ],
+      "categories": [
+        "beauty",
+        "testing"
+      ],
+      "access": "selection",
+      "summary": {
+        "pt": "Centro de pesquisa clínica em Osasco (SP) que testa produtos dermatológicos, cosméticos e nutracêuticos com voluntários. Após o cadastro, a equipe indica estudos compatíveis e convida para avaliação presencial na unidade.",
+        "es": "Centro de investigación clínica en Osasco (SP) que prueba productos dermatológicos, cosméticos y nutracéuticos con voluntarios. Tras el registro, el equipo indica estudios compatibles e invita a una evaluación presencial en la sede.",
+        "en": "Clinical research center in Osasco (SP, Brazil) that tests dermatological, cosmetic and nutraceutical products with volunteers. After sign-up, the team matches studies and invites you to an in-person assessment at the site."
+      },
+      "eligibility": {
+        "pt": "Pessoas que possam comparecer à unidade em Osasco (SP) e atendam aos critérios de cada estudo.",
+        "es": "Personas que puedan acudir a la sede en Osasco (SP) y cumplan los criterios de cada estudio.",
+        "en": "People who can attend the Osasco (SP) site and meet each study's criteria."
+      },
+      "steps": {
+        "pt": [
+          "Acesse a página Participantes do Grupo Medcin e clique em Quero fazer parte.",
+          "Preencha o formulário com seus dados e perfil de saúde.",
+          "Aguarde a equipe identificar estudos para o seu perfil.",
+          "Se convidado, compareça à unidade para avaliação e participação."
+        ],
+        "es": [
+          "Entra a la página Participantes del Grupo Medcin y haz clic en Quero fazer parte.",
+          "Completa el formulario con tus datos y perfil de salud.",
+          "Espera a que el equipo identifique estudios para tu perfil.",
+          "Si te invitan, acude a la sede para la evaluación y participación."
+        ],
+        "en": [
+          "Open the Grupo Medcin Participantes page and click Quero fazer parte.",
+          "Fill in the form with your details and health profile.",
+          "Wait for the team to identify studies for your profile.",
+          "If invited, go to the site for assessment and participation."
+        ]
+      },
+      "costs": {
+        "pt": "Cadastro gratuito, com dados de saúde. Exige deslocamento até Osasco. A página diz que você pode receber benefícios e ter acesso gratuito a tratamentos e produtos; não informa valores.",
+        "es": "Registro gratuito, con datos de salud. Requiere desplazarse a Osasco. La página dice que puedes recibir beneficios y acceso gratuito a tratamientos y productos; no indica montos.",
+        "en": "Free sign-up with health data. Requires travel to Osasco. The page says you may receive benefits and free access to treatments and products; no amounts are given."
+      },
+      "frequency": {
+        "pt": "Convites conforme os estudos em andamento.",
+        "es": "Invitaciones según los estudios en curso.",
+        "en": "Invitations depend on ongoing studies."
+      },
+      "officialUrl": "https://grupomedcin.com.br/participantes/",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://grupomedcin.com.br/participantes/",
+        "https://medcininstituto120196.fluig.cloudtotvs.com.br/portal/1/page_cadastro_participante"
+      ]
+    },
+    {
+      "id": "ipclin-participante-pesquisa-br",
+      "name": "IPclin - Cadastro de Participante de Pesquisa",
+      "company": "Grupo IPclin",
+      "countries": [
+        "BR"
+      ],
+      "categories": [
+        "beauty",
+        "testing"
+      ],
+      "access": "selection",
+      "summary": {
+        "pt": "Laboratório de pesquisa clínica em Jundiaí (SP) que testa cosméticos e produtos para a pele em voluntários. O cadastro registra seu perfil de pele, cabelo e disponibilidade para convites a estudos.",
+        "es": "Laboratorio de investigación clínica en Jundiaí (SP) que prueba cosméticos y productos para la piel en voluntarios. El registro guarda tu perfil de piel, cabello y disponibilidad para invitarte a estudios.",
+        "en": "Clinical research lab in Jundiaí (SP, Brazil) that tests cosmetics and skin products on volunteers. The sign-up records your skin and hair profile and availability for study invitations."
+      },
+      "eligibility": {
+        "pt": "Pessoas que possam comparecer ao laboratório em Jundiaí (SP) e atendam aos critérios de cada estudo.",
+        "es": "Personas que puedan acudir al laboratorio en Jundiaí (SP) y cumplan los criterios de cada estudio.",
+        "en": "People who can attend the lab in Jundiaí (SP) and meet each study's criteria."
+      },
+      "steps": {
+        "pt": [
+          "Acesse a página Cadastre-se como Participante de Pesquisa do IPclin.",
+          "Informe nome, nascimento, contato, cidade e dias e horários disponíveis.",
+          "Preencha tipo e cor de pele e cabelo e outras características.",
+          "Aguarde contato da equipe quando houver estudo compatível."
+        ],
+        "es": [
+          "Entra a la página Cadastre-se como Participante de Pesquisa de IPclin.",
+          "Indica nombre, nacimiento, contacto, ciudad y días y horarios disponibles.",
+          "Completa tipo y color de piel y cabello y otras características.",
+          "Espera el contacto del equipo cuando haya un estudio compatible."
+        ],
+        "en": [
+          "Open IPclin's Cadastre-se como Participante de Pesquisa page.",
+          "Enter name, birth date, contact, city and available days and times.",
+          "Fill in skin and hair type and color and other characteristics.",
+          "Wait to be contacted when a matching study opens."
+        ]
+      },
+      "costs": {
+        "pt": "Cadastro gratuito. Exige deslocamento até Jundiaí. A página não informa ressarcimento; consulte a equipe de atendimento a participantes.",
+        "es": "Registro gratuito. Requiere desplazarse a Jundiaí. La página no informa reembolso; consulta al equipo de atención a participantes.",
+        "en": "Free sign-up. Requires travel to Jundiaí. The page does not mention reimbursement; ask the participant support team."
+      },
+      "frequency": {
+        "pt": "Convites conforme os estudos em andamento.",
+        "es": "Invitaciones según los estudios en curso.",
+        "en": "Invitations depend on ongoing studies."
+      },
+      "officialUrl": "https://grupoipclin.com.br/pt-br/voluntario",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://www.grupoipclin.com.br/pt-br/voluntario"
+      ]
+    },
+    {
+      "id": "cidp-brasil-participante-br",
+      "name": "CIDP Brasil - Venha testar cosméticos",
+      "company": "CIDP Brasil",
+      "countries": [
+        "BR"
+      ],
+      "categories": [
+        "beauty",
+        "testing"
+      ],
+      "access": "selection",
+      "summary": {
+        "pt": "Centro de pesquisa clínica no Rio de Janeiro que recruta participantes para testar cosméticos, com pesquisas abertas publicadas no site. Há ressarcimento de gastos com alimentação e transporte, segundo o FAQ oficial.",
+        "es": "Centro de investigación clínica en Río de Janeiro que recluta participantes para probar cosméticos, con estudios abiertos publicados en el sitio. Según el FAQ oficial, hay reembolso de gastos de comida y transporte.",
+        "en": "Clinical research center in Rio de Janeiro that recruits participants to test cosmetics, with open studies posted on its site. Per the official FAQ, food and transport costs are reimbursed."
+      },
+      "eligibility": {
+        "pt": "Pessoas que possam ir ao centro no Rio de Janeiro (RJ) e atendam ao perfil de cada pesquisa.",
+        "es": "Personas que puedan ir al centro en Río de Janeiro (RJ) y cumplan el perfil de cada estudio.",
+        "en": "People who can attend the center in Rio de Janeiro (RJ) and fit each study's profile."
+      },
+      "steps": {
+        "pt": [
+          "Acesse o site da CIDP Brasil e veja as pesquisas abertas.",
+          "Clique em Participar na pesquisa que combina com você ou em Inscreva-se.",
+          "Aguarde o contato da equipe de recrutamento.",
+          "Leia e assine o TCLE e siga as visitas e o uso do produto conforme o estudo."
+        ],
+        "es": [
+          "Entra al sitio de CIDP Brasil y revisa los estudios abiertos.",
+          "Haz clic en Participar en el estudio que te corresponda o en Inscreva-se.",
+          "Espera el contacto del equipo de reclutamiento.",
+          "Lee y firma el TCLE y cumple las visitas y el uso del producto según el estudio."
+        ],
+        "en": [
+          "Visit the CIDP Brasil site and check open studies.",
+          "Click Participar on a study that fits you, or Inscreva-se.",
+          "Wait for the recruitment team to contact you.",
+          "Read and sign the TCLE and follow the visits and product use for the study."
+        ]
+      },
+      "costs": {
+        "pt": "Participação voluntária e gratuita. Exige ida ao centro no Rio de Janeiro. O ressarcimento cobre possíveis gastos com alimentação e transporte e varia por estudo.",
+        "es": "Participación voluntaria y gratuita. Requiere ir al centro en Río de Janeiro. El reembolso cubre posibles gastos de comida y transporte y varía según el estudio.",
+        "en": "Voluntary and free. Requires going to the center in Rio de Janeiro. Reimbursement covers possible food and transport costs and varies by study."
+      },
+      "frequency": {
+        "pt": "Novas pesquisas publicadas com frequência (havia pesquisas abertas em out./nov. de 2026).",
+        "es": "Se publican estudios nuevos con frecuencia (había estudios abiertos en oct./nov. de 2026).",
+        "en": "New studies are posted regularly (studies were open in Oct/Nov 2026)."
+      },
+      "officialUrl": "https://cidpbrasil.com.br/",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://cidpbrasil.com.br/",
+        "https://cidpbrasil.com.br/duvidas/"
+      ]
+    },
+    {
+      "id": "artha-pesquisas-participante-br",
+      "name": "Artha Pesquisas - Seja um participante",
+      "company": "Artha Pesquisas Clínicas (Artha Research)",
+      "countries": [
+        "BR"
+      ],
+      "categories": [
+        "beauty",
+        "testing"
+      ],
+      "access": "selection",
+      "summary": {
+        "pt": "Empresa de pesquisa clínica no Rio de Janeiro que testa cosméticos e produtos capilares com voluntários antes do lançamento. A participação é presencial e há ressarcimento de transporte e alimentação.",
+        "es": "Empresa de investigación clínica en Río de Janeiro que prueba cosméticos y productos capilares con voluntarios antes del lanzamiento. La participación es presencial y hay reembolso de transporte y comida.",
+        "en": "Clinical research company in Rio de Janeiro that tests cosmetics and hair products with volunteers before launch. Participation is in person, with reimbursement for transport and food."
+      },
+      "eligibility": {
+        "pt": "Pessoas que possam comparecer às visitas no Centro do Rio de Janeiro (RJ) e se encaixem no perfil de cada pesquisa. Menores só com presença e autorização do responsável.",
+        "es": "Personas que puedan asistir a las visitas en el Centro de Río de Janeiro (RJ) y encajen en el perfil de cada estudio. Menores solo con presencia y autorización del responsable.",
+        "en": "People who can attend visits in downtown Rio de Janeiro (RJ) and fit each study's profile. Minors only with a guardian present and consenting."
+      },
+      "steps": {
+        "pt": [
+          "Faça o cadastro único no banco de participantes da Artha.",
+          "Veja as pesquisas disponíveis no site.",
+          "Inscreva-se na pesquisa de interesse e aguarde o contato do recrutamento.",
+          "Compareça às visitas, use o produto conforme orientado e devolva-o no final."
+        ],
+        "es": [
+          "Haz el registro único en la base de participantes de Artha.",
+          "Revisa los estudios disponibles en el sitio.",
+          "Inscríbete en el estudio de interés y espera el contacto de reclutamiento.",
+          "Asiste a las visitas, usa el producto según indicaciones y devuélvelo al final."
+        ],
+        "en": [
+          "Complete the one-time sign-up to Artha's participant database.",
+          "Browse available studies on the site.",
+          "Apply to a study and wait for recruitment to contact you.",
+          "Attend the visits, use the product as instructed and return it at the end."
+        ]
+      },
+      "costs": {
+        "pt": "Cadastro gratuito; pede dados pessoais como CPF e chave PIX. Exige visitas presenciais. O ressarcimento cobre transporte e alimentação, varia por pesquisa e é pago após o último dia e a devolução do produto.",
+        "es": "Registro gratuito; pide datos personales como CPF y clave PIX. Requiere visitas presenciales. El reembolso cubre transporte y comida, varía según el estudio y se paga tras el último día y la devolución del producto.",
+        "en": "Free sign-up; asks for personal data such as CPF and a PIX key. Requires in-person visits. Reimbursement covers transport and food, varies by study and is paid after the last day and return of the product."
+      },
+      "frequency": {
+        "pt": "Pesquisas abertas publicadas no site de forma contínua.",
+        "es": "Estudios abiertos publicados en el sitio de forma continua.",
+        "en": "Open studies posted on the site on a rolling basis."
+      },
+      "officialUrl": "https://arthapesquisas.com.br/",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://arthapesquisas.com.br/",
+        "https://arthapesquisas.com.br/pesquisasartha/",
+        "https://artha-research.com/"
+      ]
+    },
+    {
+      "id": "trnd-es",
+      "name": "trnd",
+      "company": "TERRITORY Influence GmbH",
+      "countries": [
+        "ES"
+      ],
+      "categories": [
+        "testing",
+        "beauty"
+      ],
+      "access": "selection",
+      "summary": {
+        "pt": "Comunidade de marketing colaborativo que convida membros para testar produtos de marcas e compartilhar a experiência. A marca escolhe os participantes de cada projeto.",
+        "es": "Comunidad de marketing colaborativo que invita a sus miembros a probar productos de marcas y compartir su experiencia. La marca elige a los participantes de cada proyecto.",
+        "en": "Collaborative marketing community that invites members to try brand products and share their experience. The brand picks the participants for each project."
+      },
+      "eligibility": {
+        "pt": "Maiores de idade residentes na Espanha. Nas Ilhas Canárias, Ceuta e Melilla não há envio de produto, só projetos com compra e reembolso ou informativos.",
+        "es": "Mayores de edad residentes en España. En Canarias, Ceuta y Melilla no se envían productos; solo hay proyectos con compra y reembolso o informativos.",
+        "en": "Adults living in Spain. Products are not shipped to the Canary Islands, Ceuta or Melilla; only purchase-and-refund or information-only projects apply there."
+      },
+      "steps": {
+        "pt": [
+          "Cadastre-se gratuitamente em trnd.com/es e complete seu perfil.",
+          "Aguarde o e-mail de convite quando um projeto combinar com seu perfil.",
+          "Preencha o questionário de candidatura explicando por que quer participar.",
+          "Se for selecionado, você pode receber o produto ou instruções para obtê-lo.",
+          "Durante cerca de 2 a 3 semanas, compartilhe sua opinião em pesquisas e redes sociais."
+        ],
+        "es": [
+          "Regístrate gratis en trnd.com/es y completa tu perfil.",
+          "Espera el correo de invitación cuando un proyecto encaje con tu perfil.",
+          "Rellena el cuestionario de candidatura explicando por qué quieres participar.",
+          "Si te seleccionan, puedes recibir el producto o instrucciones para conseguirlo.",
+          "Durante unas 2 o 3 semanas, comparte tu opinión en encuestas y redes sociales."
+        ],
+        "en": [
+          "Sign up for free at trnd.com/es and complete your profile.",
+          "Wait for an invitation email when a project matches your profile.",
+          "Fill in the application form explaining why you want to take part.",
+          "If selected, you may receive the product or instructions to get it.",
+          "For about 2 to 3 weeks, share your opinion in surveys and on social media."
+        ]
+      },
+      "costs": {
+        "pt": "Cadastro e participação gratuitos. Pede dados pessoais e de perfil; espera-se que você compartilhe sua experiência durante o projeto.",
+        "es": "Registro y participación gratuitos. Pide datos personales y de perfil; se espera que compartas tu experiencia durante el proyecto.",
+        "en": "Free to join and take part. Requires personal and profile data; you are expected to share your experience during the project."
+      },
+      "frequency": {
+        "pt": "Vários projetos por mês, com vagas limitadas por projeto.",
+        "es": "Varios proyectos al mes, con plazas limitadas por proyecto.",
+        "en": "Several projects per month, with limited places per project."
+      },
+      "officialUrl": "https://www.trnd.com/es/",
+      "verifiedAt": "2026-11-13",
+      "featured": true,
+      "sources": [
+        "https://www.trnd.com/es/",
+        "https://www.trnd.com/es/acerca-de/trnd/preguntas-frecuentes"
+      ]
+    },
+    {
+      "id": "amazon-vine-mx",
+      "name": "Amazon Vine",
+      "company": "Amazon",
+      "countries": [
+        "MX"
+      ],
+      "categories": [
+        "testing"
+      ],
+      "access": "invite",
+      "summary": {
+        "pt": "Programa da Amazon em que avaliadores convidados podem pedir produtos sem custo para escrever opiniões. Só entra quem recebe convite.",
+        "es": "Programa de Amazon en el que reseñadores invitados pueden pedir productos sin coste para escribir opiniones. Solo se entra por invitación.",
+        "en": "Amazon program where invited reviewers can request products at no cost to write reviews. Entry is by invitation only."
+      },
+      "eligibility": {
+        "pt": "Somente por convite da Amazon (amazon.com.mx). Clientes que escrevem avaliações úteis com frequência têm mais chance de ser convidados.",
+        "es": "Solo por invitación de Amazon (amazon.com.mx). Los clientes que escriben reseñas útiles de forma habitual tienen más probabilidades de ser invitados.",
+        "en": "Invitation only from Amazon (amazon.com.mx). Customers who regularly write helpful reviews are more likely to be invited."
+      },
+      "steps": {
+        "pt": [
+          "Use sua conta na amazon.com.mx.",
+          "Escreva avaliações detalhadas e honestas dos produtos que compra.",
+          "Se a Amazon enviar um convite, aceite-o para entrar no Vine.",
+          "Dentro do programa, peça produtos disponíveis e publique sua avaliação."
+        ],
+        "es": [
+          "Usa tu cuenta de amazon.com.mx.",
+          "Escribe reseñas detalladas y honestas de los productos que compras.",
+          "Si Amazon te envía una invitación, acéptala para entrar en Vine.",
+          "Dentro del programa, pide productos disponibles y publica tu reseña."
+        ],
+        "en": [
+          "Use your amazon.com.mx account.",
+          "Write detailed, honest reviews of the products you buy.",
+          "If Amazon sends you an invitation, accept it to join Vine.",
+          "Inside the program, request available products and post your review."
+        ]
+      },
+      "costs": {
+        "pt": "Não há como se inscrever por conta própria. Os produtos do Vine são enviados sem custo, e espera-se uma avaliação; consulte as regras do programa no site da Amazon.",
+        "es": "No es posible inscribirse por cuenta propia. Los productos de Vine se envían sin coste y se espera una reseña; consulta las reglas del programa en la web de Amazon.",
+        "en": "You cannot sign up on your own. Vine products ship at no cost and a review is expected; check the program rules on Amazon's site."
+      },
+      "frequency": {
+        "pt": "Convites a critério da Amazon, sem calendário público.",
+        "es": "Invitaciones a criterio de Amazon, sin calendario público.",
+        "en": "Invitations at Amazon's discretion, with no public schedule."
+      },
+      "officialUrl": "https://www.amazon.com.mx/vine/about",
+      "verifiedAt": "2026-11-13",
+      "featured": true,
+      "sources": [
+        "https://www.amazon.com.mx/vine/about"
+      ]
+    },
+    {
+      "id": "amazon-vine-es",
+      "name": "Amazon Vine",
+      "company": "Amazon",
+      "countries": [
+        "ES"
+      ],
+      "categories": [
+        "testing"
+      ],
+      "access": "invite",
+      "summary": {
+        "pt": "Programa da Amazon em que avaliadores convidados podem pedir produtos sem custo para escrever opiniões. Só entra quem recebe convite.",
+        "es": "Programa de Amazon en el que reseñadores invitados pueden pedir productos sin coste para escribir opiniones. Solo se entra por invitación.",
+        "en": "Amazon program where invited reviewers can request products at no cost to write reviews. Entry is by invitation only."
+      },
+      "eligibility": {
+        "pt": "Somente por convite da Amazon (amazon.es). Clientes que escrevem avaliações úteis com frequência têm mais chance de ser convidados.",
+        "es": "Solo por invitación de Amazon (amazon.es). Los clientes que escriben reseñas útiles de forma habitual tienen más probabilidades de ser invitados.",
+        "en": "Invitation only from Amazon (amazon.es). Customers who regularly write helpful reviews are more likely to be invited."
+      },
+      "steps": {
+        "pt": [
+          "Use sua conta na amazon.es.",
+          "Escreva avaliações detalhadas e honestas dos produtos que compra.",
+          "Se a Amazon enviar um convite, aceite-o para entrar no Vine.",
+          "Dentro do programa, peça produtos disponíveis e publique sua avaliação."
+        ],
+        "es": [
+          "Usa tu cuenta de amazon.es.",
+          "Escribe reseñas detalladas y honestas de los productos que compras.",
+          "Si Amazon te envía una invitación, acéptala para entrar en Vine.",
+          "Dentro del programa, pide productos disponibles y publica tu reseña."
+        ],
+        "en": [
+          "Use your amazon.es account.",
+          "Write detailed, honest reviews of the products you buy.",
+          "If Amazon sends you an invitation, accept it to join Vine.",
+          "Inside the program, request available products and post your review."
+        ]
+      },
+      "costs": {
+        "pt": "Não há como se inscrever por conta própria. Os produtos do Vine são enviados sem custo, e espera-se uma avaliação; consulte as regras do programa no site da Amazon.",
+        "es": "No es posible inscribirse por cuenta propia. Los productos de Vine se envían sin coste y se espera una reseña; consulta las reglas del programa en la web de Amazon.",
+        "en": "You cannot sign up on your own. Vine products ship at no cost and a review is expected; check the program rules on Amazon's site."
+      },
+      "frequency": {
+        "pt": "Convites a critério da Amazon, sem calendário público.",
+        "es": "Invitaciones a criterio de Amazon, sin calendario público.",
+        "en": "Invitations at Amazon's discretion, with no public schedule."
+      },
+      "officialUrl": "https://www.amazon.es/vine/about",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://www.amazon.es/vine/about"
+      ]
+    },
+    {
+      "id": "shein-free-trial-mx",
+      "name": "SHEIN Free Trial (Centro de Prueba Gratuita)",
+      "company": "SHEIN",
+      "countries": [
+        "MX"
+      ],
+      "categories": [
+        "testing"
+      ],
+      "access": "selection",
+      "summary": {
+        "pt": "Área da SHEIN onde clientes se candidatam a itens de teste. Os selecionados recebem o item e devem publicar um relatório com opinião.",
+        "es": "Área de SHEIN donde los clientes se postulan a artículos de prueba. Los seleccionados reciben el artículo y deben publicar un informe con su opinión.",
+        "en": "SHEIN area where customers apply for trial items. Selected customers receive the item and must post a review report."
+      },
+      "eligibility": {
+        "pt": "Conta SHEIN no site de México; o endereço de entrega deve ser em México. Proibido criar várias contas.",
+        "es": "Cuenta SHEIN en el sitio de México; la dirección de entrega debe estar en México. Prohibido crear varias cuentas.",
+        "en": "SHEIN account on the Mexico site; the delivery address must be in Mexico. Multiple accounts are not allowed."
+      },
+      "steps": {
+        "pt": [
+          "No app ou site da SHEIN, abra o Centro de Prueba Gratuita (Free Trial).",
+          "Escolha até 3 itens por semana e toque em Prueba Gratuita.",
+          "Selecione o tamanho, preencha o endereço e confirme.",
+          "Veja o resultado em Mi Prueba Gratuita (cerca de 1 semana).",
+          "Se aprovado, ao receber o item publique o relatório (Publicar Informe)."
+        ],
+        "es": [
+          "En la app o web de SHEIN, abre el Centro de Prueba Gratuita (Free Trial).",
+          "Elige hasta 3 artículos por semana y pulsa Prueba Gratuita.",
+          "Selecciona la talla, rellena la dirección y confirma.",
+          "Revisa el resultado en Mi Prueba Gratuita (aprox. 1 semana).",
+          "Si te aprueban, al recibir el artículo publica el informe (Publicar Informe)."
+        ],
+        "en": [
+          "In the SHEIN app or site, open the Free Trial Center.",
+          "Pick up to 3 items per week and tap Free Trial.",
+          "Choose a size, fill in the address and confirm.",
+          "Check the result in My Free Trial (about 1 week).",
+          "If approved, post the report (Publish Report) after the item arrives."
+        ]
+      },
+      "costs": {
+        "pt": "Sem taxa de participação. O relatório com opinião é obrigatório; se for rejeitado, há só uma nova chance. A SHEIN escolhe considerando o histórico da conta.",
+        "es": "Sin cuota de participación. El informe con opinión es obligatorio; si se rechaza, solo hay una nueva oportunidad. SHEIN elige según el historial de la cuenta.",
+        "en": "No participation fee. The review report is mandatory; if rejected, you get only one more chance. SHEIN selects based on account history."
+      },
+      "frequency": {
+        "pt": "Itens de teste atualizados com frequência; limite de 3 candidaturas por semana.",
+        "es": "Artículos de prueba actualizados con frecuencia; límite de 3 solicitudes por semana.",
+        "en": "Trial items refreshed often; limit of 3 applications per week."
+      },
+      "officialUrl": "https://www.shein.com.mx/Free-Trial-Hel-Center-a-747.html",
+      "verifiedAt": "2026-11-13",
+      "featured": true,
+      "sources": [
+        "https://www.shein.com.mx/Free-Trial-Hel-Center-a-747.html"
+      ]
+    },
+    {
+      "id": "shein-free-trial-es",
+      "name": "SHEIN Free Trial (Centro de Prueba Gratuita)",
+      "company": "SHEIN",
+      "countries": [
+        "ES"
+      ],
+      "categories": [
+        "testing"
+      ],
+      "access": "selection",
+      "summary": {
+        "pt": "Área da SHEIN onde clientes se candidatam a itens de teste. Os selecionados recebem o item e devem publicar um relatório com opinião.",
+        "es": "Área de SHEIN donde los clientes se postulan a artículos de prueba. Los seleccionados reciben el artículo y deben publicar un informe con su opinión.",
+        "en": "SHEIN area where customers apply for trial items. Selected customers receive the item and must post a review report."
+      },
+      "eligibility": {
+        "pt": "Conta SHEIN no site de Espanha; o endereço de entrega deve ser em Espanha. Proibido criar várias contas.",
+        "es": "Cuenta SHEIN en el sitio de España; la dirección de entrega debe estar en España. Prohibido crear varias cuentas.",
+        "en": "SHEIN account on the Spain site; the delivery address must be in Spain. Multiple accounts are not allowed."
+      },
+      "steps": {
+        "pt": [
+          "No app ou site da SHEIN, abra o Centro de Prueba Gratuita (Free Trial).",
+          "Escolha até 3 itens por semana e toque em Prueba Gratuita.",
+          "Selecione o tamanho, preencha o endereço e confirme.",
+          "Veja o resultado em Mi Prueba Gratuita (cerca de 1 semana).",
+          "Se aprovado, ao receber o item publique o relatório (Publicar Informe)."
+        ],
+        "es": [
+          "En la app o web de SHEIN, abre el Centro de Prueba Gratuita (Free Trial).",
+          "Elige hasta 3 artículos por semana y pulsa Prueba Gratuita.",
+          "Selecciona la talla, rellena la dirección y confirma.",
+          "Revisa el resultado en Mi Prueba Gratuita (aprox. 1 semana).",
+          "Si te aprueban, al recibir el artículo publica el informe (Publicar Informe)."
+        ],
+        "en": [
+          "In the SHEIN app or site, open the Free Trial Center.",
+          "Pick up to 3 items per week and tap Free Trial.",
+          "Choose a size, fill in the address and confirm.",
+          "Check the result in My Free Trial (about 1 week).",
+          "If approved, post the report (Publish Report) after the item arrives."
+        ]
+      },
+      "costs": {
+        "pt": "Sem taxa de participação. O relatório com opinião é obrigatório; se for rejeitado, há só uma nova chance. A SHEIN escolhe considerando o histórico da conta.",
+        "es": "Sin cuota de participación. El informe con opinión es obligatorio; si se rechaza, solo hay una nueva oportunidad. SHEIN elige según el historial de la cuenta.",
+        "en": "No participation fee. The review report is mandatory; if rejected, you get only one more chance. SHEIN selects based on account history."
+      },
+      "frequency": {
+        "pt": "Itens de teste atualizados com frequência; limite de 3 candidaturas por semana.",
+        "es": "Artículos de prueba actualizados con frecuencia; límite de 3 solicitudes por semana.",
+        "en": "Trial items refreshed often; limit of 3 applications per week."
+      },
+      "officialUrl": "https://es.shein.com/Free-Trial-Hel-Center-a-747.html",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://es.shein.com/Free-Trial-Hel-Center-a-747.html"
+      ]
+    },
+    {
+      "id": "shein-free-trial-co",
+      "name": "SHEIN Free Trial (Centro de Prueba Gratuita)",
+      "company": "SHEIN",
+      "countries": [
+        "CO"
+      ],
+      "categories": [
+        "testing"
+      ],
+      "access": "selection",
+      "summary": {
+        "pt": "Área da SHEIN onde clientes se candidatam a itens de teste. Os selecionados recebem o item e devem publicar um relatório com opinião.",
+        "es": "Área de SHEIN donde los clientes se postulan a artículos de prueba. Los seleccionados reciben el artículo y deben publicar un informe con su opinión.",
+        "en": "SHEIN area where customers apply for trial items. Selected customers receive the item and must post a review report."
+      },
+      "eligibility": {
+        "pt": "Conta SHEIN no site de Colômbia; o endereço de entrega deve ser em Colômbia. Proibido criar várias contas.",
+        "es": "Cuenta SHEIN en el sitio de Colombia; la dirección de entrega debe estar en Colombia. Prohibido crear varias cuentas.",
+        "en": "SHEIN account on the Colombia site; the delivery address must be in Colombia. Multiple accounts are not allowed."
+      },
+      "steps": {
+        "pt": [
+          "No app ou site da SHEIN, abra o Centro de Prueba Gratuita (Free Trial).",
+          "Escolha até 3 itens por semana e toque em Prueba Gratuita.",
+          "Selecione o tamanho, preencha o endereço e confirme.",
+          "Veja o resultado em Mi Prueba Gratuita (cerca de 1 semana).",
+          "Se aprovado, ao receber o item publique o relatório (Publicar Informe)."
+        ],
+        "es": [
+          "En la app o web de SHEIN, abre el Centro de Prueba Gratuita (Free Trial).",
+          "Elige hasta 3 artículos por semana y pulsa Prueba Gratuita.",
+          "Selecciona la talla, rellena la dirección y confirma.",
+          "Revisa el resultado en Mi Prueba Gratuita (aprox. 1 semana).",
+          "Si te aprueban, al recibir el artículo publica el informe (Publicar Informe)."
+        ],
+        "en": [
+          "In the SHEIN app or site, open the Free Trial Center.",
+          "Pick up to 3 items per week and tap Free Trial.",
+          "Choose a size, fill in the address and confirm.",
+          "Check the result in My Free Trial (about 1 week).",
+          "If approved, post the report (Publish Report) after the item arrives."
+        ]
+      },
+      "costs": {
+        "pt": "Sem taxa de participação. O relatório com opinião é obrigatório; se for rejeitado, há só uma nova chance. A SHEIN escolhe considerando o histórico da conta.",
+        "es": "Sin cuota de participación. El informe con opinión es obligatorio; si se rechaza, solo hay una nueva oportunidad. SHEIN elige según el historial de la cuenta.",
+        "en": "No participation fee. The review report is mandatory; if rejected, you get only one more chance. SHEIN selects based on account history."
+      },
+      "frequency": {
+        "pt": "Itens de teste atualizados com frequência; limite de 3 candidaturas por semana.",
+        "es": "Artículos de prueba actualizados con frecuencia; límite de 3 solicitudes por semana.",
+        "en": "Trial items refreshed often; limit of 3 applications per week."
+      },
+      "officialUrl": "https://www.shein.com.co/Free-Trial-Hel-Center-a-747.html",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://www.shein.com.co/Free-Trial-Hel-Center-a-747.html"
+      ]
+    },
+    {
+      "id": "shein-free-trial-cl",
+      "name": "SHEIN Free Trial (Centro de Prueba Gratuita)",
+      "company": "SHEIN",
+      "countries": [
+        "CL"
+      ],
+      "categories": [
+        "testing"
+      ],
+      "access": "selection",
+      "summary": {
+        "pt": "Área da SHEIN onde clientes se candidatam a itens de teste. Os selecionados recebem o item e devem publicar um relatório com opinião.",
+        "es": "Área de SHEIN donde los clientes se postulan a artículos de prueba. Los seleccionados reciben el artículo y deben publicar un informe con su opinión.",
+        "en": "SHEIN area where customers apply for trial items. Selected customers receive the item and must post a review report."
+      },
+      "eligibility": {
+        "pt": "Conta SHEIN no site de Chile; o endereço de entrega deve ser em Chile. Proibido criar várias contas.",
+        "es": "Cuenta SHEIN en el sitio de Chile; la dirección de entrega debe estar en Chile. Prohibido crear varias cuentas.",
+        "en": "SHEIN account on the Chile site; the delivery address must be in Chile. Multiple accounts are not allowed."
+      },
+      "steps": {
+        "pt": [
+          "No app ou site da SHEIN, abra o Centro de Prueba Gratuita (Free Trial).",
+          "Escolha até 3 itens por semana e toque em Prueba Gratuita.",
+          "Selecione o tamanho, preencha o endereço e confirme.",
+          "Veja o resultado em Mi Prueba Gratuita (cerca de 1 semana).",
+          "Se aprovado, ao receber o item publique o relatório (Publicar Informe)."
+        ],
+        "es": [
+          "En la app o web de SHEIN, abre el Centro de Prueba Gratuita (Free Trial).",
+          "Elige hasta 3 artículos por semana y pulsa Prueba Gratuita.",
+          "Selecciona la talla, rellena la dirección y confirma.",
+          "Revisa el resultado en Mi Prueba Gratuita (aprox. 1 semana).",
+          "Si te aprueban, al recibir el artículo publica el informe (Publicar Informe)."
+        ],
+        "en": [
+          "In the SHEIN app or site, open the Free Trial Center.",
+          "Pick up to 3 items per week and tap Free Trial.",
+          "Choose a size, fill in the address and confirm.",
+          "Check the result in My Free Trial (about 1 week).",
+          "If approved, post the report (Publish Report) after the item arrives."
+        ]
+      },
+      "costs": {
+        "pt": "Sem taxa de participação. O relatório com opinião é obrigatório; se for rejeitado, há só uma nova chance. A SHEIN escolhe considerando o histórico da conta.",
+        "es": "Sin cuota de participación. El informe con opinión es obligatorio; si se rechaza, solo hay una nueva oportunidad. SHEIN elige según el historial de la cuenta.",
+        "en": "No participation fee. The review report is mandatory; if rejected, you get only one more chance. SHEIN selects based on account history."
+      },
+      "frequency": {
+        "pt": "Itens de teste atualizados com frequência; limite de 3 candidaturas por semana.",
+        "es": "Artículos de prueba actualizados con frecuencia; límite de 3 solicitudes por semana.",
+        "en": "Trial items refreshed often; limit of 3 applications per week."
+      },
+      "officialUrl": "https://cl.shein.com/Free-Trial-Hel-Center-a-747.html",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://cl.shein.com/Free-Trial-Hel-Center-a-747.html"
+      ]
+    },
+    {
+      "id": "shein-free-trial-pe",
+      "name": "SHEIN Free Trial (Centro de Prueba Gratuita)",
+      "company": "SHEIN",
+      "countries": [
+        "PE"
+      ],
+      "categories": [
+        "testing"
+      ],
+      "access": "selection",
+      "summary": {
+        "pt": "Área da SHEIN onde clientes se candidatam a itens de teste. Os selecionados recebem o item e devem publicar um relatório com opinião.",
+        "es": "Área de SHEIN donde los clientes se postulan a artículos de prueba. Los seleccionados reciben el artículo y deben publicar un informe con su opinión.",
+        "en": "SHEIN area where customers apply for trial items. Selected customers receive the item and must post a review report."
+      },
+      "eligibility": {
+        "pt": "Conta SHEIN no site de Peru; o endereço de entrega deve ser em Peru. Proibido criar várias contas.",
+        "es": "Cuenta SHEIN en el sitio de Perú; la dirección de entrega debe estar en Perú. Prohibido crear varias cuentas.",
+        "en": "SHEIN account on the Peru site; the delivery address must be in Peru. Multiple accounts are not allowed."
+      },
+      "steps": {
+        "pt": [
+          "No app ou site da SHEIN, abra o Centro de Prueba Gratuita (Free Trial).",
+          "Escolha até 3 itens por semana e toque em Prueba Gratuita.",
+          "Selecione o tamanho, preencha o endereço e confirme.",
+          "Veja o resultado em Mi Prueba Gratuita (cerca de 1 semana).",
+          "Se aprovado, ao receber o item publique o relatório (Publicar Informe)."
+        ],
+        "es": [
+          "En la app o web de SHEIN, abre el Centro de Prueba Gratuita (Free Trial).",
+          "Elige hasta 3 artículos por semana y pulsa Prueba Gratuita.",
+          "Selecciona la talla, rellena la dirección y confirma.",
+          "Revisa el resultado en Mi Prueba Gratuita (aprox. 1 semana).",
+          "Si te aprueban, al recibir el artículo publica el informe (Publicar Informe)."
+        ],
+        "en": [
+          "In the SHEIN app or site, open the Free Trial Center.",
+          "Pick up to 3 items per week and tap Free Trial.",
+          "Choose a size, fill in the address and confirm.",
+          "Check the result in My Free Trial (about 1 week).",
+          "If approved, post the report (Publish Report) after the item arrives."
+        ]
+      },
+      "costs": {
+        "pt": "Sem taxa de participação. O relatório com opinião é obrigatório; se for rejeitado, há só uma nova chance. A SHEIN escolhe considerando o histórico da conta.",
+        "es": "Sin cuota de participación. El informe con opinión es obligatorio; si se rechaza, solo hay una nueva oportunidad. SHEIN elige según el historial de la cuenta.",
+        "en": "No participation fee. The review report is mandatory; if rejected, you get only one more chance. SHEIN selects based on account history."
+      },
+      "frequency": {
+        "pt": "Itens de teste atualizados com frequência; limite de 3 candidaturas por semana.",
+        "es": "Artículos de prueba actualizados con frecuencia; límite de 3 solicitudes por semana.",
+        "en": "Trial items refreshed often; limit of 3 applications per week."
+      },
+      "officialUrl": "https://pe.shein.com/Free-Trial-Hel-Center-a-747.html",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://pe.shein.com/Free-Trial-Hel-Center-a-747.html"
+      ]
+    },
+    {
+      "id": "ipsos-isay-mx",
+      "name": "Ipsos iSay",
+      "company": "Ipsos",
+      "countries": [
+        "MX"
+      ],
+      "categories": [
+        "testing"
+      ],
+      "access": "points",
+      "summary": {
+        "pt": "Painel de pesquisas pagas em pontos, trocáveis por vales e cartões. Às vezes convida membros para testar produtos novos antes do lançamento.",
+        "es": "Panel de encuestas pagadas en puntos, canjeables por tarjetas regalo. A veces invita a miembros a probar productos nuevos antes de su lanzamiento.",
+        "en": "Paid survey panel that rewards points redeemable for gift cards. It sometimes invites members to test new products before launch."
+      },
+      "eligibility": {
+        "pt": "Residentes em México com 16 anos ou mais.",
+        "es": "Residentes en México de 16 años o más.",
+        "en": "Residents of Mexico aged 16 or older."
+      },
+      "steps": {
+        "pt": [
+          "Acesse ipsosisay.com/es-mx e cadastre-se.",
+          "Responda pesquisas para acumular pontos.",
+          "Se convidado para um teste de produto, siga as instruções e responda as pesquisas de acompanhamento.",
+          "Troque os pontos pelas recompensas disponíveis."
+        ],
+        "es": [
+          "Entra en ipsosisay.com/es-mx y regístrate.",
+          "Responde encuestas para acumular puntos.",
+          "Si te invitan a una prueba de producto, sigue las instrucciones y responde las encuestas de seguimiento.",
+          "Canjea los puntos por las recompensas disponibles."
+        ],
+        "en": [
+          "Go to ipsosisay.com/es-mx and sign up.",
+          "Answer surveys to collect points.",
+          "If invited to a product test, follow the instructions and answer the follow-up surveys.",
+          "Redeem points for the available rewards."
+        ]
+      },
+      "costs": {
+        "pt": "Gratuito. Exige cadastro com dados pessoais e tempo para responder pesquisas. Testes de produto dependem de convite.",
+        "es": "Gratuito. Requiere registro con datos personales y tiempo para responder encuestas. Las pruebas de producto dependen de invitación.",
+        "en": "Free. Requires sign-up with personal data and time to answer surveys. Product tests depend on invitation."
+      },
+      "frequency": {
+        "pt": "Pesquisas frequentes; testes de produto são ocasionais e por convite.",
+        "es": "Encuestas frecuentes; las pruebas de producto son ocasionales y por invitación.",
+        "en": "Frequent surveys; product tests are occasional and invitation-based."
+      },
+      "officialUrl": "https://www.ipsosisay.com/es-mx",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://www.ipsosisay.com/es-mx",
+        "https://www.ipsosisay.com/es-mx/terms-and-conditions"
+      ]
+    },
+    {
+      "id": "ipsos-isay-es",
+      "name": "Ipsos iSay",
+      "company": "Ipsos",
+      "countries": [
+        "ES"
+      ],
+      "categories": [
+        "testing"
+      ],
+      "access": "points",
+      "summary": {
+        "pt": "Painel de pesquisas pagas em pontos, trocáveis por vales e cartões. Às vezes convida membros para testar produtos novos antes do lançamento.",
+        "es": "Panel de encuestas pagadas en puntos, canjeables por tarjetas regalo. A veces invita a miembros a probar productos nuevos antes de su lanzamiento.",
+        "en": "Paid survey panel that rewards points redeemable for gift cards. It sometimes invites members to test new products before launch."
+      },
+      "eligibility": {
+        "pt": "Residentes em Espanha com 16 anos ou mais.",
+        "es": "Residentes en España de 16 años o más.",
+        "en": "Residents of Spain aged 16 or older."
+      },
+      "steps": {
+        "pt": [
+          "Acesse ipsosisay.com/es-es e cadastre-se.",
+          "Responda pesquisas para acumular pontos.",
+          "Se convidado para um teste de produto, siga as instruções e responda as pesquisas de acompanhamento.",
+          "Troque os pontos pelas recompensas disponíveis."
+        ],
+        "es": [
+          "Entra en ipsosisay.com/es-es y regístrate.",
+          "Responde encuestas para acumular puntos.",
+          "Si te invitan a una prueba de producto, sigue las instrucciones y responde las encuestas de seguimiento.",
+          "Canjea los puntos por las recompensas disponibles."
+        ],
+        "en": [
+          "Go to ipsosisay.com/es-es and sign up.",
+          "Answer surveys to collect points.",
+          "If invited to a product test, follow the instructions and answer the follow-up surveys.",
+          "Redeem points for the available rewards."
+        ]
+      },
+      "costs": {
+        "pt": "Gratuito. Exige cadastro com dados pessoais e tempo para responder pesquisas. Testes de produto dependem de convite.",
+        "es": "Gratuito. Requiere registro con datos personales y tiempo para responder encuestas. Las pruebas de producto dependen de invitación.",
+        "en": "Free. Requires sign-up with personal data and time to answer surveys. Product tests depend on invitation."
+      },
+      "frequency": {
+        "pt": "Pesquisas frequentes; testes de produto são ocasionais e por convite.",
+        "es": "Encuestas frecuentes; las pruebas de producto son ocasionales y por invitación.",
+        "en": "Frequent surveys; product tests are occasional and invitation-based."
+      },
+      "officialUrl": "https://www.ipsosisay.com/es-es",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://www.ipsosisay.com/es-es",
+        "https://www.ipsosisay.com/es-es/terms-and-conditions"
+      ]
+    },
+    {
+      "id": "ipsos-isay-ar",
+      "name": "Ipsos iSay",
+      "company": "Ipsos",
+      "countries": [
+        "AR"
+      ],
+      "categories": [
+        "testing"
+      ],
+      "access": "points",
+      "summary": {
+        "pt": "Painel de pesquisas pagas em pontos, trocáveis por vales e cartões. Às vezes convida membros para testar produtos novos antes do lançamento.",
+        "es": "Panel de encuestas pagadas en puntos, canjeables por tarjetas regalo. A veces invita a miembros a probar productos nuevos antes de su lanzamiento.",
+        "en": "Paid survey panel that rewards points redeemable for gift cards. It sometimes invites members to test new products before launch."
+      },
+      "eligibility": {
+        "pt": "Residentes em Argentina. Consulte a idade mínima nos termos do site.",
+        "es": "Residentes en Argentina. Consulta la edad mínima en los términos de la web.",
+        "en": "Residents of Argentina. Check the minimum age in the site terms."
+      },
+      "steps": {
+        "pt": [
+          "Acesse ipsosisay.com/es-ar e cadastre-se.",
+          "Responda pesquisas para acumular pontos.",
+          "Se convidado para um teste de produto, siga as instruções e responda as pesquisas de acompanhamento.",
+          "Troque os pontos pelas recompensas disponíveis."
+        ],
+        "es": [
+          "Entra en ipsosisay.com/es-ar y regístrate.",
+          "Responde encuestas para acumular puntos.",
+          "Si te invitan a una prueba de producto, sigue las instrucciones y responde las encuestas de seguimiento.",
+          "Canjea los puntos por las recompensas disponibles."
+        ],
+        "en": [
+          "Go to ipsosisay.com/es-ar and sign up.",
+          "Answer surveys to collect points.",
+          "If invited to a product test, follow the instructions and answer the follow-up surveys.",
+          "Redeem points for the available rewards."
+        ]
+      },
+      "costs": {
+        "pt": "Gratuito. Exige cadastro com dados pessoais e tempo para responder pesquisas. Testes de produto dependem de convite.",
+        "es": "Gratuito. Requiere registro con datos personales y tiempo para responder encuestas. Las pruebas de producto dependen de invitación.",
+        "en": "Free. Requires sign-up with personal data and time to answer surveys. Product tests depend on invitation."
+      },
+      "frequency": {
+        "pt": "Pesquisas frequentes; testes de produto são ocasionais e por convite.",
+        "es": "Encuestas frecuentes; las pruebas de producto son ocasionales y por invitación.",
+        "en": "Frequent surveys; product tests are occasional and invitation-based."
+      },
+      "officialUrl": "https://www.ipsosisay.com/es-ar",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://www.ipsosisay.com/es-ar"
+      ]
+    },
+    {
+      "id": "ipsos-isay-co",
+      "name": "Ipsos iSay",
+      "company": "Ipsos",
+      "countries": [
+        "CO"
+      ],
+      "categories": [
+        "testing"
+      ],
+      "access": "points",
+      "summary": {
+        "pt": "Painel de pesquisas pagas em pontos, trocáveis por vales e cartões. Às vezes convida membros para testar produtos novos antes do lançamento.",
+        "es": "Panel de encuestas pagadas en puntos, canjeables por tarjetas regalo. A veces invita a miembros a probar productos nuevos antes de su lanzamiento.",
+        "en": "Paid survey panel that rewards points redeemable for gift cards. It sometimes invites members to test new products before launch."
+      },
+      "eligibility": {
+        "pt": "Residentes em Colômbia. Consulte a idade mínima nos termos do site.",
+        "es": "Residentes en Colombia. Consulta la edad mínima en los términos de la web.",
+        "en": "Residents of Colombia. Check the minimum age in the site terms."
+      },
+      "steps": {
+        "pt": [
+          "Acesse ipsosisay.com/es-co e cadastre-se.",
+          "Responda pesquisas para acumular pontos.",
+          "Se convidado para um teste de produto, siga as instruções e responda as pesquisas de acompanhamento.",
+          "Troque os pontos pelas recompensas disponíveis."
+        ],
+        "es": [
+          "Entra en ipsosisay.com/es-co y regístrate.",
+          "Responde encuestas para acumular puntos.",
+          "Si te invitan a una prueba de producto, sigue las instrucciones y responde las encuestas de seguimiento.",
+          "Canjea los puntos por las recompensas disponibles."
+        ],
+        "en": [
+          "Go to ipsosisay.com/es-co and sign up.",
+          "Answer surveys to collect points.",
+          "If invited to a product test, follow the instructions and answer the follow-up surveys.",
+          "Redeem points for the available rewards."
+        ]
+      },
+      "costs": {
+        "pt": "Gratuito. Exige cadastro com dados pessoais e tempo para responder pesquisas. Testes de produto dependem de convite.",
+        "es": "Gratuito. Requiere registro con datos personales y tiempo para responder encuestas. Las pruebas de producto dependen de invitación.",
+        "en": "Free. Requires sign-up with personal data and time to answer surveys. Product tests depend on invitation."
+      },
+      "frequency": {
+        "pt": "Pesquisas frequentes; testes de produto são ocasionais e por convite.",
+        "es": "Encuestas frecuentes; las pruebas de producto son ocasionales y por invitación.",
+        "en": "Frequent surveys; product tests are occasional and invitation-based."
+      },
+      "officialUrl": "https://www.ipsosisay.com/es-co",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://www.ipsosisay.com/es-co"
+      ]
+    },
+    {
+      "id": "ipsos-isay-cl",
+      "name": "Ipsos iSay",
+      "company": "Ipsos",
+      "countries": [
+        "CL"
+      ],
+      "categories": [
+        "testing"
+      ],
+      "access": "points",
+      "summary": {
+        "pt": "Painel de pesquisas pagas em pontos, trocáveis por vales e cartões. Às vezes convida membros para testar produtos novos antes do lançamento.",
+        "es": "Panel de encuestas pagadas en puntos, canjeables por tarjetas regalo. A veces invita a miembros a probar productos nuevos antes de su lanzamiento.",
+        "en": "Paid survey panel that rewards points redeemable for gift cards. It sometimes invites members to test new products before launch."
+      },
+      "eligibility": {
+        "pt": "Residentes em Chile. Consulte a idade mínima nos termos do site.",
+        "es": "Residentes en Chile. Consulta la edad mínima en los términos de la web.",
+        "en": "Residents of Chile. Check the minimum age in the site terms."
+      },
+      "steps": {
+        "pt": [
+          "Acesse ipsosisay.com/es-cl e cadastre-se.",
+          "Responda pesquisas para acumular pontos.",
+          "Se convidado para um teste de produto, siga as instruções e responda as pesquisas de acompanhamento.",
+          "Troque os pontos pelas recompensas disponíveis."
+        ],
+        "es": [
+          "Entra en ipsosisay.com/es-cl y regístrate.",
+          "Responde encuestas para acumular puntos.",
+          "Si te invitan a una prueba de producto, sigue las instrucciones y responde las encuestas de seguimiento.",
+          "Canjea los puntos por las recompensas disponibles."
+        ],
+        "en": [
+          "Go to ipsosisay.com/es-cl and sign up.",
+          "Answer surveys to collect points.",
+          "If invited to a product test, follow the instructions and answer the follow-up surveys.",
+          "Redeem points for the available rewards."
+        ]
+      },
+      "costs": {
+        "pt": "Gratuito. Exige cadastro com dados pessoais e tempo para responder pesquisas. Testes de produto dependem de convite.",
+        "es": "Gratuito. Requiere registro con datos personales y tiempo para responder encuestas. Las pruebas de producto dependen de invitación.",
+        "en": "Free. Requires sign-up with personal data and time to answer surveys. Product tests depend on invitation."
+      },
+      "frequency": {
+        "pt": "Pesquisas frequentes; testes de produto são ocasionais e por convite.",
+        "es": "Encuestas frecuentes; las pruebas de producto son ocasionales y por invitación.",
+        "en": "Frequent surveys; product tests are occasional and invitation-based."
+      },
+      "officialUrl": "https://www.ipsosisay.com/es-cl",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://www.ipsosisay.com/es-cl"
+      ]
+    },
+    {
+      "id": "ipsos-isay-pe",
+      "name": "Ipsos iSay",
+      "company": "Ipsos",
+      "countries": [
+        "PE"
+      ],
+      "categories": [
+        "testing"
+      ],
+      "access": "points",
+      "summary": {
+        "pt": "Painel de pesquisas pagas em pontos, trocáveis por vales e cartões. Às vezes convida membros para testar produtos novos antes do lançamento.",
+        "es": "Panel de encuestas pagadas en puntos, canjeables por tarjetas regalo. A veces invita a miembros a probar productos nuevos antes de su lanzamiento.",
+        "en": "Paid survey panel that rewards points redeemable for gift cards. It sometimes invites members to test new products before launch."
+      },
+      "eligibility": {
+        "pt": "Residentes em Peru. Consulte a idade mínima nos termos do site.",
+        "es": "Residentes en Perú. Consulta la edad mínima en los términos de la web.",
+        "en": "Residents of Peru. Check the minimum age in the site terms."
+      },
+      "steps": {
+        "pt": [
+          "Acesse ipsosisay.com/es-pe e cadastre-se.",
+          "Responda pesquisas para acumular pontos.",
+          "Se convidado para um teste de produto, siga as instruções e responda as pesquisas de acompanhamento.",
+          "Troque os pontos pelas recompensas disponíveis."
+        ],
+        "es": [
+          "Entra en ipsosisay.com/es-pe y regístrate.",
+          "Responde encuestas para acumular puntos.",
+          "Si te invitan a una prueba de producto, sigue las instrucciones y responde las encuestas de seguimiento.",
+          "Canjea los puntos por las recompensas disponibles."
+        ],
+        "en": [
+          "Go to ipsosisay.com/es-pe and sign up.",
+          "Answer surveys to collect points.",
+          "If invited to a product test, follow the instructions and answer the follow-up surveys.",
+          "Redeem points for the available rewards."
+        ]
+      },
+      "costs": {
+        "pt": "Gratuito. Exige cadastro com dados pessoais e tempo para responder pesquisas. Testes de produto dependem de convite.",
+        "es": "Gratuito. Requiere registro con datos personales y tiempo para responder encuestas. Las pruebas de producto dependen de invitación.",
+        "en": "Free. Requires sign-up with personal data and time to answer surveys. Product tests depend on invitation."
+      },
+      "frequency": {
+        "pt": "Pesquisas frequentes; testes de produto são ocasionais e por convite.",
+        "es": "Encuestas frecuentes; las pruebas de producto son ocasionales y por invitación.",
+        "en": "Frequent surveys; product tests are occasional and invitation-based."
+      },
+      "officialUrl": "https://www.ipsosisay.com/es-pe",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://www.ipsosisay.com/es-pe"
+      ]
+    },
+    {
+      "id": "home-tester-club-mx",
+      "name": "Home Tester Club",
+      "company": "The Brand Power Company",
+      "countries": [
+        "MX"
+      ],
+      "categories": [
+        "testing"
+      ],
+      "access": "selection",
+      "summary": {
+        "pt": "Comunidade de avaliações onde membros se candidatam a testes de produtos. A equipe seleciona os perfis mais adequados para cada teste.",
+        "es": "Comunidad de reseñas donde los miembros se postulan a pruebas de productos. El equipo selecciona los perfiles más adecuados para cada prueba.",
+        "en": "Review community where members apply for product tests. The team picks the most suitable profiles for each test."
+      },
+      "eligibility": {
+        "pt": "Maiores de 18 anos residentes em México.",
+        "es": "Mayores de 18 años residentes en México.",
+        "en": "Adults 18+ living in Mexico."
+      },
+      "steps": {
+        "pt": [
+          "Cadastre-se gratuitamente no Home Tester Club do seu país.",
+          "Complete seu perfil e avalie produtos para ganhar pontos.",
+          "Quando houver um teste, responda a pesquisa de pré-qualificação.",
+          "Em 1 a 2 semanas você recebe um e-mail se for selecionado.",
+          "Se selecionado, o produto costuma chegar em 1 a 3 semanas; depois publique sua avaliação."
+        ],
+        "es": [
+          "Regístrate gratis en Home Tester Club de tu país.",
+          "Completa tu perfil y reseña productos para sumar puntos.",
+          "Cuando haya una prueba, responde la encuesta de precalificación.",
+          "En 1 a 2 semanas recibes un correo si te seleccionan.",
+          "Si te seleccionan, el producto suele llegar en 1 a 3 semanas; luego publica tu reseña."
+        ],
+        "en": [
+          "Sign up for free at Home Tester Club for your country.",
+          "Complete your profile and review products to earn points.",
+          "When a test opens, answer the pre-qualification survey.",
+          "Within 1 to 2 weeks you get an email if selected.",
+          "If selected, the product usually arrives in 1 to 3 weeks; then post your review."
+        ]
+      },
+      "costs": {
+        "pt": "Gratuito. Exige perfil completo e dados pessoais. Os produtos são limitados e nem todos os membros são selecionados.",
+        "es": "Gratuito. Requiere perfil completo y datos personales. Los productos son limitados y no todos los miembros son seleccionados.",
+        "en": "Free. Requires a complete profile and personal data. Products are limited and not every member is selected."
+      },
+      "frequency": {
+        "pt": "Testes abertos ao longo do ano, com vagas limitadas.",
+        "es": "Pruebas abiertas a lo largo del año, con plazas limitadas.",
+        "en": "Tests open throughout the year, with limited places."
+      },
+      "officialUrl": "https://www.hometesterclub.com/mx/es",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://www.hometesterclub.com/mx/es",
+        "https://www.hometesterclub.com/mx/es/faq",
+        "https://www.hometesterclub.com/mx/es/terms"
+      ]
+    },
+    {
+      "id": "home-tester-club-es",
+      "name": "Home Tester Club",
+      "company": "The Brand Power Company",
+      "countries": [
+        "ES"
+      ],
+      "categories": [
+        "testing"
+      ],
+      "access": "selection",
+      "summary": {
+        "pt": "Comunidade de avaliações onde membros se candidatam a testes de produtos. A equipe seleciona os perfis mais adequados para cada teste.",
+        "es": "Comunidad de reseñas donde los miembros se postulan a pruebas de productos. El equipo selecciona los perfiles más adecuados para cada prueba.",
+        "en": "Review community where members apply for product tests. The team picks the most suitable profiles for each test."
+      },
+      "eligibility": {
+        "pt": "Maiores de 18 anos residentes em Espanha.",
+        "es": "Mayores de 18 años residentes en España.",
+        "en": "Adults 18+ living in Spain."
+      },
+      "steps": {
+        "pt": [
+          "Cadastre-se gratuitamente no Home Tester Club do seu país.",
+          "Complete seu perfil e avalie produtos para ganhar pontos.",
+          "Quando houver um teste, responda a pesquisa de pré-qualificação.",
+          "Em 1 a 2 semanas você recebe um e-mail se for selecionado.",
+          "Se selecionado, o produto costuma chegar em 1 a 3 semanas; depois publique sua avaliação."
+        ],
+        "es": [
+          "Regístrate gratis en Home Tester Club de tu país.",
+          "Completa tu perfil y reseña productos para sumar puntos.",
+          "Cuando haya una prueba, responde la encuesta de precalificación.",
+          "En 1 a 2 semanas recibes un correo si te seleccionan.",
+          "Si te seleccionan, el producto suele llegar en 1 a 3 semanas; luego publica tu reseña."
+        ],
+        "en": [
+          "Sign up for free at Home Tester Club for your country.",
+          "Complete your profile and review products to earn points.",
+          "When a test opens, answer the pre-qualification survey.",
+          "Within 1 to 2 weeks you get an email if selected.",
+          "If selected, the product usually arrives in 1 to 3 weeks; then post your review."
+        ]
+      },
+      "costs": {
+        "pt": "Gratuito. Exige perfil completo e dados pessoais. Os produtos são limitados e nem todos os membros são selecionados.",
+        "es": "Gratuito. Requiere perfil completo y datos personales. Los productos son limitados y no todos los miembros son seleccionados.",
+        "en": "Free. Requires a complete profile and personal data. Products are limited and not every member is selected."
+      },
+      "frequency": {
+        "pt": "Testes abertos ao longo do ano, com vagas limitadas.",
+        "es": "Pruebas abiertas a lo largo del año, con plazas limitadas.",
+        "en": "Tests open throughout the year, with limited places."
+      },
+      "officialUrl": "https://www.hometesterclub.com/es/es",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://www.hometesterclub.com/es/es",
+        "https://www.hometesterclub.com/es/es/faq",
+        "https://www.hometesterclub.com/es/es/terms"
+      ]
+    },
+    {
+      "id": "sampleo-mx",
+      "name": "Sampleo",
+      "company": "Webedia SA",
+      "countries": [
+        "MX"
+      ],
+      "categories": [
+        "testing"
+      ],
+      "access": "selection",
+      "summary": {
+        "pt": "Plataforma de embaixadores de marca: você se candidata a campanhas de teste e, se selecionado, recebe o produto e compartilha sua opinião.",
+        "es": "Plataforma de embajadores de marca: te postulas a campañas de prueba y, si te seleccionan, recibes el producto y compartes tu opinión.",
+        "en": "Brand ambassador platform: you apply for test campaigns and, if selected, receive the product and share your opinion."
+      },
+      "eligibility": {
+        "pt": "Residentes em México cadastrados no site do Sampleo de México. Cada campanha busca um perfil específico.",
+        "es": "Residentes en México registrados en la web de Sampleo de México. Cada campaña busca un perfil concreto.",
+        "en": "Residents of Mexico registered on the Sampleo Mexico site. Each campaign targets a specific profile."
+      },
+      "steps": {
+        "pt": [
+          "Cadastre-se no site ou app do Sampleo do seu país.",
+          "Complete seu perfil.",
+          "Candidate-se às campanhas abertas respondendo às perguntas.",
+          "Se for selecionado, receba o produto e cumpra as missões de embaixador (opinião, fotos, redes)."
+        ],
+        "es": [
+          "Regístrate en la web o app de Sampleo de tu país.",
+          "Completa tu perfil.",
+          "Postúlate a las campañas abiertas respondiendo las preguntas.",
+          "Si te seleccionan, recibe el producto y cumple las misiones de embajador (opinión, fotos, redes)."
+        ],
+        "en": [
+          "Sign up on the Sampleo site or app for your country.",
+          "Complete your profile.",
+          "Apply to open campaigns by answering the questions.",
+          "If selected, receive the product and complete the ambassador missions (review, photos, social media)."
+        ]
+      },
+      "costs": {
+        "pt": "Gratuito. As campanhas costumam pedir publicação nas redes sociais e autorização de uso da imagem/conteúdo; consulte as condições de cada campanha.",
+        "es": "Gratuito. Las campañas suelen pedir publicación en redes sociales y autorización de uso de imagen/contenido; consulta las condiciones de cada campaña.",
+        "en": "Free. Campaigns often ask for social media posts and permission to use your image/content; check each campaign's conditions."
+      },
+      "frequency": {
+        "pt": "Campanhas esporádicas; em 13/11/2026 havia campanhas de ração (Dog Chow, Beneful) em fase de teste, com inscrições encerradas.",
+        "es": "Campañas esporádicas; al 13/11/2026 había campañas de alimento para perro (Dog Chow, Beneful) en fase de prueba, con inscripción cerrada.",
+        "en": "Occasional campaigns; on 13/11/2026 dog food campaigns (Dog Chow, Beneful) were in the testing phase, with sign-ups closed."
+      },
+      "officialUrl": "https://www.sampleo.com/es_mx/",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://www.sampleo.com/es_mx/",
+        "https://www.sampleo.com/es/content/how-it-works",
+        "https://www.sampleo.com/es/content/legal-mention",
+        "https://www.sampleo.com/es/content/cgu"
+      ]
+    },
+    {
+      "id": "sampleo-es",
+      "name": "Sampleo",
+      "company": "Webedia SA",
+      "countries": [
+        "ES"
+      ],
+      "categories": [
+        "testing"
+      ],
+      "access": "selection",
+      "summary": {
+        "pt": "Plataforma de embaixadores de marca: você se candidata a campanhas de teste e, se selecionado, recebe o produto e compartilha sua opinião.",
+        "es": "Plataforma de embajadores de marca: te postulas a campañas de prueba y, si te seleccionan, recibes el producto y compartes tu opinión.",
+        "en": "Brand ambassador platform: you apply for test campaigns and, if selected, receive the product and share your opinion."
+      },
+      "eligibility": {
+        "pt": "Residentes em Espanha cadastrados no site do Sampleo de Espanha. Cada campanha busca um perfil específico.",
+        "es": "Residentes en España registrados en la web de Sampleo de España. Cada campaña busca un perfil concreto.",
+        "en": "Residents of Spain registered on the Sampleo Spain site. Each campaign targets a specific profile."
+      },
+      "steps": {
+        "pt": [
+          "Cadastre-se no site ou app do Sampleo do seu país.",
+          "Complete seu perfil.",
+          "Candidate-se às campanhas abertas respondendo às perguntas.",
+          "Se for selecionado, receba o produto e cumpra as missões de embaixador (opinião, fotos, redes)."
+        ],
+        "es": [
+          "Regístrate en la web o app de Sampleo de tu país.",
+          "Completa tu perfil.",
+          "Postúlate a las campañas abiertas respondiendo las preguntas.",
+          "Si te seleccionan, recibe el producto y cumple las misiones de embajador (opinión, fotos, redes)."
+        ],
+        "en": [
+          "Sign up on the Sampleo site or app for your country.",
+          "Complete your profile.",
+          "Apply to open campaigns by answering the questions.",
+          "If selected, receive the product and complete the ambassador missions (review, photos, social media)."
+        ]
+      },
+      "costs": {
+        "pt": "Gratuito. As campanhas costumam pedir publicação nas redes sociais e autorização de uso da imagem/conteúdo; consulte as condições de cada campanha.",
+        "es": "Gratuito. Las campañas suelen pedir publicación en redes sociales y autorización de uso de imagen/contenido; consulta las condiciones de cada campaña.",
+        "en": "Free. Campaigns often ask for social media posts and permission to use your image/content; check each campaign's conditions."
+      },
+      "frequency": {
+        "pt": "Campanhas esporádicas; pode passar meses sem campanha aberta na Espanha.",
+        "es": "Campañas esporádicas; pueden pasar meses sin campañas abiertas en España.",
+        "en": "Occasional campaigns; months may pass with no open campaign in Spain."
+      },
+      "officialUrl": "https://www.sampleo.com/es/",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://www.sampleo.com/es/",
+        "https://www.sampleo.com/es/content/how-it-works",
+        "https://www.sampleo.com/es/content/legal-mention",
+        "https://www.sampleo.com/es/content/cgu"
+      ]
+    },
+    {
+      "id": "sampleo-co",
+      "name": "Sampleo",
+      "company": "Webedia SA",
+      "countries": [
+        "CO"
+      ],
+      "categories": [
+        "testing"
+      ],
+      "access": "selection",
+      "summary": {
+        "pt": "Plataforma de embaixadores de marca: você se candidata a campanhas de teste e, se selecionado, recebe o produto e compartilha sua opinião.",
+        "es": "Plataforma de embajadores de marca: te postulas a campañas de prueba y, si te seleccionan, recibes el producto y compartes tu opinión.",
+        "en": "Brand ambassador platform: you apply for test campaigns and, if selected, receive the product and share your opinion."
+      },
+      "eligibility": {
+        "pt": "Residentes em Colômbia cadastrados no site do Sampleo de Colômbia. Cada campanha busca um perfil específico.",
+        "es": "Residentes en Colombia registrados en la web de Sampleo de Colombia. Cada campaña busca un perfil concreto.",
+        "en": "Residents of Colombia registered on the Sampleo Colombia site. Each campaign targets a specific profile."
+      },
+      "steps": {
+        "pt": [
+          "Cadastre-se no site ou app do Sampleo do seu país.",
+          "Complete seu perfil.",
+          "Candidate-se às campanhas abertas respondendo às perguntas.",
+          "Se for selecionado, receba o produto e cumpra as missões de embaixador (opinião, fotos, redes)."
+        ],
+        "es": [
+          "Regístrate en la web o app de Sampleo de tu país.",
+          "Completa tu perfil.",
+          "Postúlate a las campañas abiertas respondiendo las preguntas.",
+          "Si te seleccionan, recibe el producto y cumple las misiones de embajador (opinión, fotos, redes)."
+        ],
+        "en": [
+          "Sign up on the Sampleo site or app for your country.",
+          "Complete your profile.",
+          "Apply to open campaigns by answering the questions.",
+          "If selected, receive the product and complete the ambassador missions (review, photos, social media)."
+        ]
+      },
+      "costs": {
+        "pt": "Gratuito. As campanhas costumam pedir publicação nas redes sociais e autorização de uso da imagem/conteúdo; consulte as condições de cada campanha.",
+        "es": "Gratuito. Las campañas suelen pedir publicación en redes sociales y autorización de uso de imagen/contenido; consulta las condiciones de cada campaña.",
+        "en": "Free. Campaigns often ask for social media posts and permission to use your image/content; check each campaign's conditions."
+      },
+      "frequency": {
+        "pt": "Campanhas esporádicas; em 13/11/2026 não havia campanha visível na Colômbia.",
+        "es": "Campañas esporádicas; al 13/11/2026 no había campañas visibles en Colombia.",
+        "en": "Occasional campaigns; on 13/11/2026 no campaign was visible in Colombia."
+      },
+      "officialUrl": "https://www.sampleo.com/es_co/",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://www.sampleo.com/es_co/",
+        "https://www.sampleo.com/es/content/how-it-works",
+        "https://www.sampleo.com/es/content/legal-mention",
+        "https://www.sampleo.com/es/content/cgu"
+      ]
+    },
+    {
+      "id": "nestle-baby-me-es",
+      "name": "Club Nestlé Baby & me",
+      "company": "Nestlé España",
+      "countries": [
+        "ES"
+      ],
+      "categories": [
+        "baby"
+      ],
+      "access": "club",
+      "summary": {
+        "pt": "Clube da Nestlé Bebé para gestantes e famílias com bebês. Ao se cadastrar, pode receber presente de boas-vindas, amostras e cupons.",
+        "es": "Club de Nestlé Bebé para embarazadas y familias con bebés. Al registrarte puedes recibir regalo de bienvenida, muestras y cupones.",
+        "en": "Nestlé Baby club for expectant parents and families with babies. Members may receive a welcome gift, samples and coupons."
+      },
+      "eligibility": {
+        "pt": "Gestantes e famílias com bebês na Espanha. O presente varia conforme a idade do bebê.",
+        "es": "Embarazadas y familias con bebés en España. El regalo varía según la edad del bebé.",
+        "en": "Expectant parents and families with babies in Spain. The gift depends on the baby's age."
+      },
+      "steps": {
+        "pt": [
+          "Acesse nestlebebe.es e clique em Registrarme.",
+          "Informe seus dados e a idade do bebê ou a data prevista do parto.",
+          "Acompanhe na área do clube os presentes, amostras e cupons disponíveis."
+        ],
+        "es": [
+          "Entra en nestlebebe.es y pulsa Registrarme.",
+          "Indica tus datos y la edad del bebé o la fecha prevista de parto.",
+          "Consulta en el área del club los regalos, muestras y cupones disponibles."
+        ],
+        "en": [
+          "Go to nestlebebe.es and click Registrarme.",
+          "Enter your details and the baby's age or due date.",
+          "Check the club area for available gifts, samples and coupons."
+        ]
+      },
+      "costs": {
+        "pt": "Cadastro gratuito com dados pessoais. Brindes e amostras sujeitos a disponibilidade; parte dos benefícios são cupons de desconto.",
+        "es": "Registro gratuito con datos personales. Regalos y muestras sujetos a disponibilidad; parte de las ventajas son cupones de descuento.",
+        "en": "Free sign-up with personal data. Gifts and samples subject to availability; some benefits are discount coupons."
+      },
+      "frequency": {
+        "pt": "Presente de boas-vindas ao se cadastrar; amostras e cupons conforme campanhas.",
+        "es": "Regalo de bienvenida al registrarte; muestras y cupones según campañas.",
+        "en": "Welcome gift on sign-up; samples and coupons depend on campaigns."
+      },
+      "officialUrl": "https://www.nestlebebe.es/beneficios-club",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://www.nestlebebe.es/",
+        "https://www.nestlebebe.es/beneficios-club"
+      ]
+    },
+    {
+      "id": "dodot-vip-es",
+      "name": "Dodot VIP",
+      "company": "Procter & Gamble España",
+      "countries": [
+        "ES"
+      ],
+      "categories": [
+        "baby"
+      ],
+      "access": "points",
+      "summary": {
+        "pt": "App de fidelidade da Dodot: você ganha pontos escaneando o código dos pacotes de fraldas e troca por cupons ou pacotes de fraldas.",
+        "es": "App de fidelidad de Dodot: sumas puntos escaneando el código de los paquetes de pañales y los canjeas por cupones o paquetes de pañales.",
+        "en": "Dodot loyalty app: earn points by scanning the code inside diaper packs and redeem them for coupons or diaper packs."
+      },
+      "eligibility": {
+        "pt": "Maiores de 18 anos residentes na Espanha.",
+        "es": "Mayores de 18 años residentes en España.",
+        "en": "Adults 18+ living in Spain."
+      },
+      "steps": {
+        "pt": [
+          "Baixe o app Dodot VIP e crie sua conta.",
+          "Compre fraldas ou lenços Dodot.",
+          "Escaneie ou digite o código PIN de dentro do pacote para somar pontos.",
+          "Troque os pontos no catálogo de prêmios do app."
+        ],
+        "es": [
+          "Descarga la app Dodot VIP y crea tu cuenta.",
+          "Compra pañales o toallitas Dodot.",
+          "Escanea o introduce el código PIN del interior del paquete para sumar puntos.",
+          "Canjea los puntos en el catálogo de premios de la app."
+        ],
+        "en": [
+          "Download the Dodot VIP app and create an account.",
+          "Buy Dodot diapers or wipes.",
+          "Scan or enter the PIN code inside the pack to earn points.",
+          "Redeem points in the app's rewards catalog."
+        ]
+      },
+      "costs": {
+        "pt": "Exige compra de produtos Dodot para acumular pontos. Prêmios e regras de pontos podem mudar e dependem de estoque.",
+        "es": "Requiere comprar productos Dodot para sumar puntos. Los premios y las reglas de puntos pueden cambiar y dependen de existencias.",
+        "en": "Requires buying Dodot products to earn points. Rewards and point rules may change and depend on stock."
+      },
+      "frequency": {
+        "pt": "Programa contínuo; a web da Dodot às vezes tem campanhas de amostra, sujeitas a disponibilidade.",
+        "es": "Programa continuo; la web de Dodot a veces tiene campañas de muestra, sujetas a disponibilidad.",
+        "en": "Ongoing program; the Dodot site sometimes runs sample campaigns, subject to availability."
+      },
+      "officialUrl": "https://www.dodot.es/dodot-vip",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://www.dodot.es/dodot-vip",
+        "https://www.dodot.es/dodotvip/terminos-condiciones-bases-legales",
+        "https://www.dodot.es/ofertas/promocion-dodot-sensitive-muestra"
+      ]
+    },
+    {
+      "id": "almiclub-es",
+      "name": "Almiclub",
+      "company": "Danone España",
+      "countries": [
+        "ES"
+      ],
+      "categories": [
+        "baby"
+      ],
+      "access": "club",
+      "summary": {
+        "pt": "Clube da Almirón (Danone) para famílias. Membros cujo bebê já tem 6 meses podem pedir amostras gratuitas dos produtos.",
+        "es": "Club de Almirón (Danone) para familias. Los miembros cuyo bebé ya ha cumplido 6 meses pueden solicitar muestras gratuitas de sus productos.",
+        "en": "Almirón (Danone) club for families. Members whose baby is at least 6 months old can request free product samples."
+      },
+      "eligibility": {
+        "pt": "Usuários cadastrados no Almiclub residentes na Espanha, com bebê de 6 meses ou mais.",
+        "es": "Usuarios registrados en Almiclub residentes en España, con bebé de 6 meses o más.",
+        "en": "Registered Almiclub users living in Spain, with a baby aged 6 months or older."
+      },
+      "steps": {
+        "pt": [
+          "Cadastre-se em almiclub.es.",
+          "Quando o bebê completar 6 meses, acesse a seção Muestras.",
+          "Entre na sua conta e solicite as amostras.",
+          "A variedade enviada depende do que houver disponível."
+        ],
+        "es": [
+          "Regístrate en almiclub.es.",
+          "Cuando tu bebé cumpla 6 meses, entra en la sección Muestras.",
+          "Identifícate y solicita las muestras.",
+          "La variedad enviada depende de lo disponible en ese momento."
+        ],
+        "en": [
+          "Sign up at almiclub.es.",
+          "Once your baby is 6 months old, go to the Muestras section.",
+          "Log in and request the samples.",
+          "The variety sent depends on what is available at the time."
+        ]
+      },
+      "costs": {
+        "pt": "Cadastro gratuito com dados pessoais. Amostras sujeitas a disponibilidade.",
+        "es": "Registro gratuito con datos personales. Muestras sujetas a disponibilidad.",
+        "en": "Free sign-up with personal data. Samples subject to availability."
+      },
+      "frequency": {
+        "pt": "Promoção de amostras válida até 31/12/2026, segundo a página oficial.",
+        "es": "Promoción de muestras válida hasta el 31/12/2026, según la página oficial.",
+        "en": "Sample promotion valid until 31/12/2026, per the official page."
+      },
+      "officialUrl": "https://www.almiclub.es/muestras-gratis/",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://www.almiclub.es/",
+        "https://www.almiclub.es/muestras-gratis/",
+        "https://www.almiclub.es/bases-del-programa-danone/"
+      ]
+    },
+    {
+      "id": "notino-try-it-first-es",
+      "name": "Notino Try It First",
+      "company": "Notino",
+      "countries": [
+        "ES"
+      ],
+      "categories": [
+        "perfume",
+        "beauty"
+      ],
+      "access": "purchase",
+      "summary": {
+        "pt": "Ao comprar um produto da oferta Try It First, ele vem com uma amostra para você testar antes de abrir. Se não gostar, pode devolver o produto lacrado.",
+        "es": "Al comprar un producto de la oferta Try It First, llega con una muestra para que lo pruebes antes de abrirlo. Si no te convence, puedes devolver el producto sin abrir.",
+        "en": "When you buy a product from the Try It First offer, it comes with a sample to test before opening it. If you don't like it, you can return the sealed product."
+      },
+      "eligibility": {
+        "pt": "Clientes da Notino Espanha que comprem um produto participante.",
+        "es": "Clientes de Notino España que compren un producto participante.",
+        "en": "Notino Spain customers who buy a participating product."
+      },
+      "steps": {
+        "pt": [
+          "Acesse a página Try It First em notino.es.",
+          "Escolha e compre um dos produtos participantes.",
+          "Teste primeiro a amostra que vem junto.",
+          "Se não gostar, solicite a devolução gratuita do produto sem abrir."
+        ],
+        "es": [
+          "Entra en la página Try It First de notino.es.",
+          "Elige y compra uno de los productos participantes.",
+          "Prueba primero la muestra que viene incluida.",
+          "Si no te convence, solicita la devolución gratuita del producto sin abrir."
+        ],
+        "en": [
+          "Go to the Try It First page on notino.es.",
+          "Choose and buy one of the participating products.",
+          "Try the included sample first.",
+          "If you don't like it, request a free return of the unopened product."
+        ]
+      },
+      "costs": {
+        "pt": "Exige compra. A amostra acompanha o pedido; a devolução do produto lacrado é gratuita segundo a página.",
+        "es": "Requiere compra. La muestra acompaña al pedido; la devolución del producto sin abrir es gratuita según la página.",
+        "en": "Purchase required. The sample comes with the order; returning the unopened product is free per the page."
+      },
+      "frequency": {
+        "pt": "Oferta permanente com seleção de produtos que muda.",
+        "es": "Oferta permanente con una selección de productos que cambia.",
+        "en": "Ongoing offer with a changing product selection."
+      },
+      "officialUrl": "https://www.notino.es/try-it-first/",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://www.notino.es/try-it-first/",
+        "https://www.notino.es/condiciones-generales/"
+      ]
+    },
+    {
+      "id": "sephora-muestras-mx",
+      "name": "Sephora México: muestras con tu compra",
+      "company": "Sephora",
+      "countries": [
+        "MX"
+      ],
+      "categories": [
+        "beauty",
+        "perfume"
+      ],
+      "access": "purchase",
+      "summary": {
+        "pt": "Nas compras online na Sephora México, você escolhe amostras grátis no carrinho antes de pagar. Só vale junto com uma compra.",
+        "es": "En las compras en línea de Sephora México eliges muestras gratis en el carrito antes de pagar. Solo aplica junto con una compra.",
+        "en": "On Sephora Mexico online orders, you choose free samples in the cart before checkout. Only available with a purchase."
+      },
+      "eligibility": {
+        "pt": "Clientes que compram em sephora.com.mx ou no app da Sephora México.",
+        "es": "Clientes que compran en sephora.com.mx o en la app de Sephora México.",
+        "en": "Customers buying on sephora.com.mx or the Sephora Mexico app."
+      },
+      "steps": {
+        "pt": [
+          "Adicione produtos ao carrinho em sephora.com.mx.",
+          "Abra o carrinho e revise os itens.",
+          "Selecione as amostras grátis disponíveis.",
+          "Finalize a compra."
+        ],
+        "es": [
+          "Agrega productos al carrito en sephora.com.mx.",
+          "Abre el carrito y revisa los artículos.",
+          "Selecciona las muestras gratis disponibles.",
+          "Finaliza la compra."
+        ],
+        "en": [
+          "Add products to your cart on sephora.com.mx.",
+          "Open the cart and review the items.",
+          "Select the available free samples.",
+          "Complete checkout."
+        ]
+      },
+      "costs": {
+        "pt": "Exige compra. As amostras dependem de estoque; brindes de marca extras costumam ter valor mínimo de compra.",
+        "es": "Requiere compra. Las muestras dependen de existencias; los regalos de marca adicionales suelen exigir un monto mínimo.",
+        "en": "Purchase required. Samples depend on stock; extra brand gifts usually require a minimum spend."
+      },
+      "frequency": {
+        "pt": "Em todas as compras online, conforme disponibilidade.",
+        "es": "En todas las compras en línea, según disponibilidad.",
+        "en": "On every online order, subject to availability."
+      },
+      "officialUrl": "https://www.sephora.com.mx/pages/FAQs.html",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://www.sephora.com.mx/pages/FAQs.html",
+        "https://www.sephora.com.mx/pages/reinsurance-landing.html",
+        "https://www.sephora.com.mx/pages/Regalos.html"
+      ]
+    },
+    {
+      "id": "purina-club-pro-plan-es",
+      "name": "Club Pro Plan (Purina)",
+      "company": "Nestlé España (Purina)",
+      "countries": [
+        "ES"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "access": "purchase",
+      "summary": {
+        "pt": "Clube da Purina Pro Plan para donos de cães. Ao se cadastrar e enviar o comprovante de compra, você pode receber reembolso de até 25 euros em um produto Pro Plan.",
+        "es": "Club de Purina Pro Plan para dueños de perros. Al registrarte y subir el ticket de compra, puedes obtener un reembolso de hasta 25 euros en un producto Pro Plan.",
+        "en": "Purina Pro Plan club for dog owners. After joining and uploading your receipt, you can get a refund of up to 25 euros on a Pro Plan product."
+      },
+      "eligibility": {
+        "pt": "Maiores de 18 anos com cachorro, residentes na Espanha.",
+        "es": "Mayores de 18 años con perro, residentes en España.",
+        "en": "Adults 18+ who own a dog and live in Spain."
+      },
+      "steps": {
+        "pt": [
+          "Crie sua conta no Club Pro Plan em purina.es.",
+          "Compre um produto Pro Plan participante (formatos indicados nas bases).",
+          "Envie o comprovante de compra para solicitar o reembolso.",
+          "Receba o reembolso após validação."
+        ],
+        "es": [
+          "Crea tu cuenta en el Club Pro Plan en purina.es.",
+          "Compra un producto Pro Plan participante (formatos indicados en las bases).",
+          "Sube el ticket de compra para solicitar el reembolso.",
+          "Recibe el reembolso tras la validación."
+        ],
+        "en": [
+          "Create your Club Pro Plan account on purina.es.",
+          "Buy a participating Pro Plan product (sizes listed in the rules).",
+          "Upload your receipt to request the refund.",
+          "Receive the refund after validation."
+        ]
+      },
+      "costs": {
+        "pt": "Exige compra e envio do comprovante; o valor volta como reembolso. Limite de 1 reembolso por fase de vida, pessoa, conta bancária e endereço.",
+        "es": "Requiere compra y subir el ticket; el importe se devuelve como reembolso. Límite de 1 reembolso por etapa de vida, persona, cuenta bancaria y domicilio.",
+        "en": "Requires a purchase and receipt upload; the amount comes back as a refund. Limit of 1 refund per life stage, person, bank account and address."
+      },
+      "frequency": {
+        "pt": "Promoção válida para compras de 15/02/2026 a 15/02/2027.",
+        "es": "Promoción válida para compras del 15/02/2026 al 15/02/2027.",
+        "en": "Promotion valid for purchases from 15/02/2026 to 15/02/2027."
+      },
+      "officialUrl": "https://www.purina.es/online/perro/pro-plan/club/",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://www.purina.es/online/perro/pro-plan/club/",
+        "https://www.purina.es/online/perro/pro-plan/club/bases-legales.html",
+        "https://www.purina.es/online/promociones.html"
+      ]
+    },
+    {
+      "id": "purina-gourmet-collection-es",
+      "name": "Purina Gourmet Collection",
+      "company": "Nestlé España (Purina)",
+      "countries": [
+        "ES"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "access": "points",
+      "summary": {
+        "pt": "Programa de pontos da Purina Gourmet: você registra tickets de compra de produtos Gourmet e troca os pontos por brindes para o gato.",
+        "es": "Programa de puntos de Purina Gourmet: registras tickets de compra de productos Gourmet y canjeas los puntos por regalos para tu gato.",
+        "en": "Purina Gourmet points program: register receipts for Gourmet products and redeem points for gifts for your cat."
+      },
+      "eligibility": {
+        "pt": "Consumidores maiores de idade residentes na Espanha.",
+        "es": "Consumidores mayores de edad residentes en España.",
+        "en": "Adult consumers living in Spain."
+      },
+      "steps": {
+        "pt": [
+          "Crie sua conta em purina.es e acesse Gourmet Collection.",
+          "Compre produtos Gourmet participantes.",
+          "Registre o ticket com os dados pedidos e envie a foto.",
+          "Após validação (até 48 h úteis), troque os pontos por um brinde."
+        ],
+        "es": [
+          "Crea tu cuenta en purina.es y entra en Gourmet Collection.",
+          "Compra productos Gourmet participantes.",
+          "Registra el ticket con los datos solicitados y sube la foto.",
+          "Tras la validación (hasta 48 h laborables), canjea los puntos por un regalo."
+        ],
+        "en": [
+          "Create an account on purina.es and open Gourmet Collection.",
+          "Buy participating Gourmet products.",
+          "Register the receipt with the requested details and upload a photo.",
+          "After validation (up to 48 business hours), redeem points for a gift."
+        ]
+      },
+      "costs": {
+        "pt": "Exige compra de produtos Gourmet e guardar tickets e códigos de barras originais. Brindes até esgotar o estoque.",
+        "es": "Requiere comprar productos Gourmet y conservar tickets y códigos de barras originales. Regalos hasta agotar existencias.",
+        "en": "Requires buying Gourmet products and keeping original receipts and barcodes. Gifts while stocks last."
+      },
+      "frequency": {
+        "pt": "Programa contínuo (por tempo indeterminado, segundo as bases).",
+        "es": "Programa continuo (indefinido, según las bases).",
+        "en": "Ongoing program (open-ended, per the rules)."
+      },
+      "officialUrl": "https://www.purina.es/online/gato/gourmet/collection/",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://www.purina.es/online/gato/gourmet/collection/",
+        "https://www.purina.es/online/gato/gourmet/collection/bases-legales.html",
+        "https://www.purina.es/online/gato/gourmet/collection/como-participar.html"
+      ]
+    },
+    {
+      "id": "club-familias-ordesa-es",
+      "name": "Club Familias",
+      "company": "Laboratorios Ordesa",
+      "countries": [
+        "ES"
+      ],
+      "categories": [
+        "baby",
+        "food"
+      ],
+      "access": "open",
+      "summary": {
+        "pt": "Clube da Laboratorios Ordesa (Blemil, Blevit) para famílias. Após o cadastro, você pode escolher um pack de amostras grátis.",
+        "es": "Club de Laboratorios Ordesa (Blemil, Blevit) para familias. Tras registrarte, puedes elegir un pack de muestras gratis.",
+        "en": "Laboratorios Ordesa (Blemil, Blevit) club for families. After signing up, you can choose a free sample pack."
+      },
+      "eligibility": {
+        "pt": "Famílias na Espanha que se cadastram no Club Familias.",
+        "es": "Familias en España que se registran en Club Familias.",
+        "en": "Families in Spain who sign up for Club Familias."
+      },
+      "steps": {
+        "pt": [
+          "Cadastre-se em clubfamilias.com.",
+          "Espere cerca de 1 hora após o cadastro.",
+          "Entre na sua conta e escolha o pack de amostras que preferir (ex.: leite de continuação, papinha, infusão)."
+        ],
+        "es": [
+          "Regístrate en clubfamilias.com.",
+          "Espera aproximadamente 1 hora tras el registro.",
+          "Entra en tu cuenta y elige el pack de muestras que prefieras (p. ej., leche de continuación, papilla, infusión)."
+        ],
+        "en": [
+          "Sign up at clubfamilias.com.",
+          "Wait about 1 hour after signing up.",
+          "Log in and choose the sample pack you prefer (e.g., follow-on milk, cereal, infusion)."
+        ]
+      },
+      "costs": {
+        "pt": "Cadastro gratuito com dados pessoais. Packs sujeitos a disponibilidade.",
+        "es": "Registro gratuito con datos personales. Packs sujetos a disponibilidad.",
+        "en": "Free sign-up with personal data. Packs subject to availability."
+      },
+      "frequency": {
+        "pt": "Packs disponíveis de forma contínua, sujeitos a estoque.",
+        "es": "Packs disponibles de forma continua, sujetos a existencias.",
+        "en": "Packs available on an ongoing basis, subject to stock."
+      },
+      "officialUrl": "https://www.clubfamilias.com/es/gestiona-tus-muestras",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://www.clubfamilias.com/es/gestiona-tus-muestras",
+        "https://www.clubfamilias.com/es/aviso-legal"
+      ]
+    },
+    {
+      "id": "familynes-beneficios-cl",
+      "name": "Club de Beneficios Nestlé FamilyNes",
+      "company": "Nestlé Chile",
+      "countries": [
+        "CL"
+      ],
+      "categories": [
+        "baby"
+      ],
+      "access": "club",
+      "summary": {
+        "pt": "Clube da Nestlé FamilyNes no Chile que dá códigos de desconto mensais em lojas online de marcas infantis parceiras. São descontos, não amostras.",
+        "es": "Club de Nestlé FamilyNes en Chile que entrega códigos de descuento mensuales en tiendas online de marcas infantiles asociadas. Son descuentos, no muestras.",
+        "en": "Nestlé FamilyNes club in Chile that gives monthly discount codes for partner children's brands' online stores. These are discounts, not samples."
+      },
+      "eligibility": {
+        "pt": "Pessoas que se cadastram no FamilyNes Chile com e-mail.",
+        "es": "Personas que se registran en FamilyNes Chile con su correo.",
+        "en": "People who sign up for FamilyNes Chile with an email."
+      },
+      "steps": {
+        "pt": [
+          "Cadastre-se em familynes.cl com seu e-mail.",
+          "Receba o e-mail de verificação com o código de desconto.",
+          "Use o código na loja online de uma marca parceira.",
+          "Receba um novo código a cada mês."
+        ],
+        "es": [
+          "Regístrate en familynes.cl con tu correo.",
+          "Recibe el correo de verificación con tu código de descuento.",
+          "Aplica el código en la tienda online de una marca asociada.",
+          "Recibe un nuevo código cada mes."
+        ],
+        "en": [
+          "Sign up at familynes.cl with your email.",
+          "Get the verification email with your discount code.",
+          "Apply the code at a partner brand's online store.",
+          "Receive a new code every month."
+        ]
+      },
+      "costs": {
+        "pt": "Cadastro gratuito. O benefício é desconto: exige compra nas lojas parceiras.",
+        "es": "Registro gratuito. El beneficio es un descuento: requiere compra en las tiendas asociadas.",
+        "en": "Free sign-up. The benefit is a discount: a purchase at partner stores is required."
+      },
+      "frequency": {
+        "pt": "Novo código mensal; marcas e descontos mudam.",
+        "es": "Nuevo código mensual; las marcas y descuentos cambian.",
+        "en": "New code monthly; brands and discounts change."
+      },
+      "officialUrl": "https://www.familynes.cl/beneficios",
+      "verifiedAt": "2026-11-13",
+      "featured": false,
+      "sources": [
+        "https://www.familynes.cl/beneficios"
+      ]
+    }
+  ]
+}
